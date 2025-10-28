@@ -1,0 +1,200 @@
+name: Scrape GSMArena Data
+
+on:
+  schedule:
+    # Run every day at 2 AM UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Allow manual triggering
+    inputs:
+      max_phones:
+        description: "Maximum number of phones to scrape (leave empty for all)"
+        required: false
+        default: ""
+      max_images:
+        description: "Maximum images per phone"
+        required: false
+        default: "5"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Check for existing data
+        id: check_data
+        run: |
+          if [ -f "gsmarena_reviews.csv" ]; then
+            echo "reviews_exist=true" >> $GITHUB_OUTPUT
+          else
+            echo "reviews_exist=false" >> $GITHUB_OUTPUT
+          fi
+
+          if [ -f "gsmarena_specifications.csv" ]; then
+            echo "specs_exist=true" >> $GITHUB_OUTPUT
+          else
+            echo "specs_exist=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run specifications scraper
+        if: steps.check_data.outputs.reviews_exist == 'true'
+        run: |
+          MAX_PHONES="${{ github.event.inputs.max_phones }}"
+          if [ -z "$MAX_PHONES" ]; then
+            python phone_specs_scraper.py
+          else
+            # Modify the script to use the input parameter
+            sed -i "s/MAX_PHONES = 5/MAX_PHONES = $MAX_PHONES/" phone_specs_scraper.py
+            python phone_specs_scraper.py
+          fi
+        continue-on-error: true
+
+      - name: Run image scraper
+        if: steps.check_data.outputs.specs_exist == 'true' || success()
+        run: |
+          MAX_IMAGES="${{ github.event.inputs.max_images || '5' }}"
+          sed -i "s/MAX_IMAGES_PER_PHONE = 5/MAX_IMAGES_PER_PHONE = $MAX_IMAGES/" phone_image_scraper.py
+          python phone_image_scraper.py
+        continue-on-error: true
+
+      - name: Optimize images
+        if: success()
+        run: |
+          # Install image optimization tools
+          sudo apt-get update
+          sudo apt-get install -y jpegoptim optipng
+
+          # Optimize JPG images (reduce quality to 85%, max 1920px width)
+          find images -type f \( -name "*.jpg" -o -name "*.jpeg" \) -exec jpegoptim --max=85 --strip-all {} \;
+
+          # Optimize PNG images
+          find images -type f -name "*.png" -exec optipng -o2 {} \;
+        continue-on-error: true
+
+      - name: Generate image manifest with CDN URLs
+        if: success()
+        run: |
+          python << 'EOF'
+          import os
+          import json
+          from pathlib import Path
+
+          # GitHub repository info (update these)
+          GITHUB_USER = "${{ github.repository_owner }}"
+          GITHUB_REPO = "${{ github.event.repository.name }}"
+          GITHUB_BRANCH = "main"
+
+          # jsDelivr CDN base URL
+          CDN_BASE = f"https://cdn.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@{GITHUB_BRANCH}"
+
+          manifest = {}
+          images_dir = Path("images")
+
+          if images_dir.exists():
+              for phone_dir in sorted(images_dir.iterdir()):
+                  if phone_dir.is_dir():
+                      phone_name = phone_dir.name
+                      images = []
+                      
+                      for img_file in sorted(phone_dir.iterdir()):
+                          if img_file.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp']:
+                              # Create CDN URL
+                              relative_path = f"images/{phone_name}/{img_file.name}"
+                              cdn_url = f"{CDN_BASE}/{relative_path}"
+                              
+                              images.append({
+                                  "filename": img_file.name,
+                                  "cdn_url": cdn_url,
+                                  "local_path": relative_path,
+                                  "size": img_file.stat().st_size
+                              })
+                      
+                      if images:
+                          manifest[phone_name] = {
+                              "phone_name": phone_name,
+                              "image_count": len(images),
+                              "images": images,
+                              "cdn_base": f"{CDN_BASE}/images/{phone_name}"
+                          }
+
+          # Save manifest
+          with open("cdn_image_manifest.json", "w", encoding="utf-8") as f:
+              json.dump(manifest, f, indent=2, ensure_ascii=False)
+
+          print(f"Generated CDN manifest for {len(manifest)} phones")
+
+          # Also create a simple index for quick lookups
+          index = {
+              "generated_at": "${{ github.run_id }}",
+              "cdn_base": CDN_BASE,
+              "total_phones": len(manifest),
+              "total_images": sum(p["image_count"] for p in manifest.values()),
+              "phones": list(manifest.keys())
+          }
+
+          with open("cdn_index.json", "w", encoding="utf-8") as f:
+              json.dump(index, f, indent=2)
+
+          print(f"Total phones: {index['total_phones']}")
+          print(f"Total images: {index['total_images']}")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add all files
+          git add gsmarena_specifications.json gsmarena_specifications.csv 2>/dev/null || true
+          git add image_manifest.json cdn_image_manifest.json cdn_index.json 2>/dev/null || true
+          git add images/ 2>/dev/null || true
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update: Scrape data and images [skip ci]"
+            git push
+            echo "Changes pushed successfully"
+          fi
+
+      - name: Create release summary
+        if: success()
+        run: |
+          echo "## Scraping Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "cdn_index.json" ]; then
+            echo "### Statistics" >> $GITHUB_STEP_SUMMARY
+            python << 'EOF' >> $GITHUB_STEP_SUMMARY
+          import json
+
+          with open("cdn_index.json") as f:
+              data = json.load(f)
+
+          print(f"- **Total Phones:** {data['total_phones']}")
+          print(f"- **Total Images:** {data['total_images']}")
+          print(f"- **CDN Base URL:** `{data['cdn_base']}`")
+          EOF
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Access Your Data" >> $GITHUB_STEP_SUMMARY
+          echo "Images are now available via jsDelivr CDN:" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/images/" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
