@@ -1,0 +1,33 @@
+{
+  "Oppo Find X9 Pro": {
+    "phone_name": "Oppo Find X9 Pro",
+    "image_count": 4,
+    "images": [
+      {
+        "filename": "angle_2.jpg",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/allendavis-official/gsmarena-scraper@main/images/Oppo Find X9 Pro/angle_2.jpg",
+        "local_path": "images/Oppo Find X9 Pro/angle_2.jpg",
+        "size": 53661
+      },
+      {
+        "filename": "angle_3.jpg",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/allendavis-official/gsmarena-scraper@main/images/Oppo Find X9 Pro/angle_3.jpg",
+        "local_path": "images/Oppo Find X9 Pro/angle_3.jpg",
+        "size": 42930
+      },
+      {
+        "filename": "angle_4.jpg",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/allendavis-official/gsmarena-scraper@main/images/Oppo Find X9 Pro/angle_4.jpg",
+        "local_path": "images/Oppo Find X9 Pro/angle_4.jpg",
+        "size": 40239
+      },
+      {
+        "filename": "main.jpg",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/allendavis-official/gsmarena-scraper@main/images/Oppo Find X9 Pro/main.jpg",
+        "local_path": "images/Oppo Find X9 Pro/main.jpg",
+        "size": 7239
+      }
+    ],
+    "cdn_base": "https://cdn.jsdelivr.net/gh/allendavis-official/gsmarena-scraper@main/images/Oppo Find X9 Pro"
+  }
+}

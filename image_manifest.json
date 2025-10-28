@@ -1,0 +1,18 @@
+{
+  "Oppo Find X9 Pro review": {
+    "spec_url": "https://www.gsmarena.com/oppo_find_x9_pro-14094.php",
+    "image_count": 4,
+    "image_paths": [
+      "images/Oppo Find X9 Pro/main.jpg",
+      "images/Oppo Find X9 Pro/angle_2.jpg",
+      "images/Oppo Find X9 Pro/angle_3.jpg",
+      "images/Oppo Find X9 Pro/angle_4.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Oppo Find X9 Pro",
+      "display_name": "Oppo Find X9 Pro",
+      "brand": "Oppo",
+      "model": "Find X9 Pro"
+    }
+  }
+}
