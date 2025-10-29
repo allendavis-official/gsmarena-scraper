@@ -14,5 +14,2514 @@
       "brand": "Oppo",
       "model": "Find X9 Pro"
     }
+  },
+  "Xiaomi Redmi Pad 2 Pro review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_pad_2_pro-14174.php",
+    "image_count": 4,
+    "image_paths": [
+      "images/Xiaomi Redmi Pad 2 Pro/main.jpg",
+      "images/Xiaomi Redmi Pad 2 Pro/angle_2.jpg",
+      "images/Xiaomi Redmi Pad 2 Pro/angle_3.jpg",
+      "images/Xiaomi Redmi Pad 2 Pro/angle_4.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Pad 2 Pro",
+      "display_name": "Xiaomi Redmi Pad 2 Pro",
+      "brand": "Xiaomi",
+      "model": "Redmi Pad 2 Pro"
+    }
+  },
+  "Xiaomi 17 Pro Max hands-on review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_17_pro_max_5g-14181.php",
+    "image_count": 4,
+    "image_paths": [
+      "images/Xiaomi 17 Pro Max/main.jpg",
+      "images/Xiaomi 17 Pro Max/angle_2.jpg",
+      "images/Xiaomi 17 Pro Max/angle_3.jpg",
+      "images/Xiaomi 17 Pro Max/angle_4.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 17 Pro Max",
+      "display_name": "Xiaomi 17 Pro Max",
+      "brand": "Xiaomi",
+      "model": "17 Pro Max"
+    }
+  },
+  "vivo X300 & X300 Pro hands-on review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x300_pro_5g-14225.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X300 and X300 Pro/main.jpg",
+      "images/vivo X300 and X300 Pro/angle_2.jpg",
+      "images/vivo X300 and X300 Pro/angle_3.jpg",
+      "images/vivo X300 and X300 Pro/angle_4.jpg",
+      "images/vivo X300 and X300 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X300 and X300 Pro",
+      "display_name": "vivo X300 and X300 Pro",
+      "brand": "vivo",
+      "model": "X300 and X300 Pro"
+    }
+  },
+  "Samsung Galaxy Tab S11 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_tab_s11_ultra_5g-14057.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy Tab S11 Ultra/main.jpg",
+      "images/Samsung Galaxy Tab S11 Ultra/angle_2.jpg",
+      "images/Samsung Galaxy Tab S11 Ultra/angle_3.jpg",
+      "images/Samsung Galaxy Tab S11 Ultra/angle_4.jpg",
+      "images/Samsung Galaxy Tab S11 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy Tab S11 Ultra",
+      "display_name": "Samsung Galaxy Tab S11 Ultra",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S11 Ultra"
+    }
+  },
+  "Xiaomi 15T review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_15t_5g-14177.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi 15T/main.jpg",
+      "images/Xiaomi 15T/angle_2.jpg",
+      "images/Xiaomi 15T/angle_3.jpg",
+      "images/Xiaomi 15T/angle_4.jpg",
+      "images/Xiaomi 15T/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 15T",
+      "display_name": "Xiaomi 15T",
+      "brand": "Xiaomi",
+      "model": "15T"
+    }
+  },
+  "Xiaomi 15T Pro review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_15t_pro_5g-14178.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi 15T Pro/main.jpg",
+      "images/Xiaomi 15T Pro/angle_2.jpg",
+      "images/Xiaomi 15T Pro/angle_3.jpg",
+      "images/Xiaomi 15T Pro/angle_4.jpg",
+      "images/Xiaomi 15T Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 15T Pro",
+      "display_name": "Xiaomi 15T Pro",
+      "brand": "Xiaomi",
+      "model": "15T Pro"
+    }
+  },
+  "Apple iPhone 17 Pro review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 17 Pro/main.jpg",
+      "images/Apple iPhone 17 Pro/angle_2.jpg",
+      "images/Apple iPhone 17 Pro/angle_3.jpg",
+      "images/Apple iPhone 17 Pro/angle_4.jpg",
+      "images/Apple iPhone 17 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 17 Pro",
+      "display_name": "Apple iPhone 17 Pro",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro"
+    }
+  },
+  "Honor Magic V Flip 2 review": {
+    "spec_url": "https://www.gsmarena.com/honor_magic_v_flip_2_5g-14080.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor Magic V Flip 2/main.jpg",
+      "images/Honor Magic V Flip 2/angle_2.jpg",
+      "images/Honor Magic V Flip 2/angle_3.jpg",
+      "images/Honor Magic V Flip 2/angle_4.jpg",
+      "images/Honor Magic V Flip 2/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor Magic V Flip 2",
+      "display_name": "Honor Magic V Flip 2",
+      "brand": "Honor",
+      "model": "Magic V Flip 2"
+    }
+  },
+  "Apple iPhone 17 review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 17/main.jpg",
+      "images/Apple iPhone 17/angle_2.jpg",
+      "images/Apple iPhone 17/angle_3.jpg",
+      "images/Apple iPhone 17/angle_4.jpg",
+      "images/Apple iPhone 17/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 17",
+      "display_name": "Apple iPhone 17",
+      "brand": "Apple",
+      "model": "iPhone 17"
+    }
+  },
+  "Apple iPhone Air review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone Air/main.jpg",
+      "images/Apple iPhone Air/angle_2.jpg",
+      "images/Apple iPhone Air/angle_3.jpg",
+      "images/Apple iPhone Air/angle_4.jpg",
+      "images/Apple iPhone Air/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone Air",
+      "display_name": "Apple iPhone Air",
+      "brand": "Apple",
+      "model": "iPhone Air"
+    }
+  },
+  "Apple iPhone 17 Pro Max review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 17 Pro Max/main.jpg",
+      "images/Apple iPhone 17 Pro Max/angle_2.jpg",
+      "images/Apple iPhone 17 Pro Max/angle_3.jpg",
+      "images/Apple iPhone 17 Pro Max/angle_4.jpg",
+      "images/Apple iPhone 17 Pro Max/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 17 Pro Max",
+      "display_name": "Apple iPhone 17 Pro Max",
+      "brand": "Apple",
+      "model": "iPhone 17 Pro Max"
+    }
+  },
+  "Realme P3 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/realme_p3_ultra-13734.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme P3 Ultra/main.jpg",
+      "images/Realme P3 Ultra/angle_2.jpg",
+      "images/Realme P3 Ultra/angle_3.jpg",
+      "images/Realme P3 Ultra/angle_4.jpg",
+      "images/Realme P3 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme P3 Ultra",
+      "display_name": "Realme P3 Ultra",
+      "brand": "Realme",
+      "model": "P3 Ultra"
+    }
+  },
+  "Samsung Galaxy A07 4G review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a07-14066.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A07 4G/main.jpg",
+      "images/Samsung Galaxy A07 4G/angle_2.jpg",
+      "images/Samsung Galaxy A07 4G/angle_3.jpg",
+      "images/Samsung Galaxy A07 4G/angle_4.jpg",
+      "images/Samsung Galaxy A07 4G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A07 4G",
+      "display_name": "Samsung Galaxy A07 4G",
+      "brand": "Samsung",
+      "model": "Galaxy A07 4G"
+    }
+  },
+  "Google Pixel 10 Pro XL review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_10_pro_xl_5g-13988.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 10 Pro XL/main.jpg",
+      "images/Google Pixel 10 Pro XL/angle_2.jpg",
+      "images/Google Pixel 10 Pro XL/angle_3.jpg",
+      "images/Google Pixel 10 Pro XL/angle_4.jpg",
+      "images/Google Pixel 10 Pro XL/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 10 Pro XL",
+      "display_name": "Google Pixel 10 Pro XL",
+      "brand": "Google",
+      "model": "Pixel 10 Pro XL"
+    }
+  },
+  "Sony Xperia 10 VII review": {
+    "spec_url": "https://www.gsmarena.com/sony_xperia_10_vii_5g-14137.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Sony Xperia 10 VII/main.jpg",
+      "images/Sony Xperia 10 VII/angle_2.jpg",
+      "images/Sony Xperia 10 VII/angle_3.jpg",
+      "images/Sony Xperia 10 VII/angle_4.jpg",
+      "images/Sony Xperia 10 VII/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Sony Xperia 10 VII",
+      "display_name": "Sony Xperia 10 VII",
+      "brand": "Sony",
+      "model": "Xperia 10 VII"
+    }
+  },
+  "Samsung Galaxy S25 FE review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25_fe_5g-14042.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S25 FE/main.jpg",
+      "images/Samsung Galaxy S25 FE/angle_2.jpg",
+      "images/Samsung Galaxy S25 FE/angle_3.jpg",
+      "images/Samsung Galaxy S25 FE/angle_4.jpg",
+      "images/Samsung Galaxy S25 FE/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S25 FE",
+      "display_name": "Samsung Galaxy S25 FE",
+      "brand": "Samsung",
+      "model": "Galaxy S25 FE"
+    }
+  },
+  "Google Pixel 10 Pro review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_10_pro_5g-13987.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 10 Pro/main.jpg",
+      "images/Google Pixel 10 Pro/angle_2.jpg",
+      "images/Google Pixel 10 Pro/angle_3.jpg",
+      "images/Google Pixel 10 Pro/angle_4.jpg",
+      "images/Google Pixel 10 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 10 Pro",
+      "display_name": "Google Pixel 10 Pro",
+      "brand": "Google",
+      "model": "Pixel 10 Pro"
+    }
+  },
+  "Google Pixel 10 review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_10_5g-13979.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 10/main.jpg",
+      "images/Google Pixel 10/angle_2.jpg",
+      "images/Google Pixel 10/angle_3.jpg",
+      "images/Google Pixel 10/angle_4.jpg",
+      "images/Google Pixel 10/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 10",
+      "display_name": "Google Pixel 10",
+      "brand": "Google",
+      "model": "Pixel 10"
+    }
+  },
+  "Xiaomi Redmi 15 5G hands-on review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_15_5g-14036.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi 15 5G/main.jpg",
+      "images/Xiaomi Redmi 15 5G/angle_2.jpg",
+      "images/Xiaomi Redmi 15 5G/angle_3.jpg",
+      "images/Xiaomi Redmi 15 5G/angle_4.jpg",
+      "images/Xiaomi Redmi 15 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi 15 5G",
+      "display_name": "Xiaomi Redmi 15 5G",
+      "brand": "Xiaomi",
+      "model": "Redmi 15 5G"
+    }
+  },
+  "Huawei MatePad Pro 12.2 (2025) review": {
+    "spec_url": "https://www.gsmarena.com/huawei_matepad_pro_12_2_(2025)-13870.php",
+    "image_count": 2,
+    "image_paths": [
+      "images/Huawei MatePad Pro 122/main.jpg",
+      "images/Huawei MatePad Pro 122/angle_2.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Huawei MatePad Pro 122",
+      "display_name": "Huawei MatePad Pro 122",
+      "brand": "Huawei",
+      "model": "MatePad Pro 122"
+    }
+  },
+  "The Ultra cameraphone comparison": {
+    "spec_url": "https://www.gsmarena.com/huawei_pura_80_ultra_5g-13944.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/The Ultra cameraphone comparison/main.jpg",
+      "images/The Ultra cameraphone comparison/angle_2.jpg",
+      "images/The Ultra cameraphone comparison/angle_3.jpg",
+      "images/The Ultra cameraphone comparison/angle_4.jpg",
+      "images/The Ultra cameraphone comparison/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "The Ultra cameraphone comparison",
+      "display_name": "The Ultra cameraphone comparison",
+      "brand": "The",
+      "model": "Ultra cameraphone comparison"
+    }
+  },
+  "Honor Magic V5 review": {
+    "spec_url": "https://www.gsmarena.com/honor_magic_v5-13982.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor Magic V5/main.jpg",
+      "images/Honor Magic V5/angle_2.jpg",
+      "images/Honor Magic V5/angle_3.jpg",
+      "images/Honor Magic V5/angle_4.jpg",
+      "images/Honor Magic V5/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor Magic V5",
+      "display_name": "Honor Magic V5",
+      "brand": "Honor",
+      "model": "Magic V5"
+    }
+  },
+  "Google Pixel 10 Pro XL hands-on review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_10_pro_xl_5g-13988.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 10 Pro XL/main.jpg",
+      "images/Google Pixel 10 Pro XL/angle_2.jpg",
+      "images/Google Pixel 10 Pro XL/angle_3.jpg",
+      "images/Google Pixel 10 Pro XL/angle_4.jpg",
+      "images/Google Pixel 10 Pro XL/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 10 Pro XL",
+      "display_name": "Google Pixel 10 Pro XL",
+      "brand": "Google",
+      "model": "Pixel 10 Pro XL"
+    }
+  },
+  "vivo V60 review": {
+    "spec_url": "https://www.gsmarena.com/vivo_v60_5g-14021.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo V60/main.jpg",
+      "images/vivo V60/angle_2.jpg",
+      "images/vivo V60/angle_3.jpg",
+      "images/vivo V60/angle_4.jpg",
+      "images/vivo V60/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo V60",
+      "display_name": "vivo V60",
+      "brand": "vivo",
+      "model": "V60"
+    }
+  },
+  "RedMagic Astra review": {
+    "spec_url": "https://www.gsmarena.com/zte_redmagic_tablet_3_pro-13939.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/RedMagic Astra/main.jpg",
+      "images/RedMagic Astra/angle_2.jpg",
+      "images/RedMagic Astra/angle_3.jpg",
+      "images/RedMagic Astra/angle_4.jpg",
+      "images/RedMagic Astra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "RedMagic Astra",
+      "display_name": "RedMagic Astra",
+      "brand": "RedMagic",
+      "model": "Astra"
+    }
+  },
+  "Realme 15 Pro review": {
+    "spec_url": "https://www.gsmarena.com/realme_15_pro_5g-14017.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme 15 Pro/main.jpg",
+      "images/Realme 15 Pro/angle_2.jpg",
+      "images/Realme 15 Pro/angle_3.jpg",
+      "images/Realme 15 Pro/angle_4.jpg",
+      "images/Realme 15 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme 15 Pro",
+      "display_name": "Realme 15 Pro",
+      "brand": "Realme",
+      "model": "15 Pro"
+    }
+  },
+  "Realme P4 Pro hands-on review": {
+    "spec_url": "https://www.gsmarena.com/realme_p4_pro_5g-14086.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme P4 Pro/main.jpg",
+      "images/Realme P4 Pro/angle_2.jpg",
+      "images/Realme P4 Pro/angle_3.jpg",
+      "images/Realme P4 Pro/angle_4.jpg",
+      "images/Realme P4 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme P4 Pro",
+      "display_name": "Realme P4 Pro",
+      "brand": "Realme",
+      "model": "P4 Pro"
+    }
+  },
+  "Samsung Galaxy A17 5G review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a17_5g-14041.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A17 5G/main.jpg",
+      "images/Samsung Galaxy A17 5G/angle_2.jpg",
+      "images/Samsung Galaxy A17 5G/angle_3.jpg",
+      "images/Samsung Galaxy A17 5G/angle_4.jpg",
+      "images/Samsung Galaxy A17 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A17 5G",
+      "display_name": "Samsung Galaxy A17 5G",
+      "brand": "Samsung",
+      "model": "Galaxy A17 5G"
+    }
+  },
+  "Poco M7 Pro 5G review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_m7_pro_5g-13570.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco M7 Pro 5G/main.jpg",
+      "images/Poco M7 Pro 5G/angle_2.jpg",
+      "images/Poco M7 Pro 5G/angle_3.jpg",
+      "images/Poco M7 Pro 5G/angle_4.jpg",
+      "images/Poco M7 Pro 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco M7 Pro 5G",
+      "display_name": "Poco M7 Pro 5G",
+      "brand": "Poco",
+      "model": "M7 Pro 5G"
+    }
+  },
+  "Infinix Hot 60 Pro+ review": {
+    "spec_url": "https://www.gsmarena.com/infinix_hot_60_pro+-14002.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Hot 60 Pro/main.jpg",
+      "images/Infinix Hot 60 Pro/angle_2.jpg",
+      "images/Infinix Hot 60 Pro/angle_3.jpg",
+      "images/Infinix Hot 60 Pro/angle_4.jpg",
+      "images/Infinix Hot 60 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Hot 60 Pro",
+      "display_name": "Infinix Hot 60 Pro",
+      "brand": "Infinix",
+      "model": "Hot 60 Pro"
+    }
+  },
+  "Huawei Pura 80 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/huawei_pura_80_ultra_5g-13944.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Huawei Pura 80 Ultra/main.jpg",
+      "images/Huawei Pura 80 Ultra/angle_2.jpg",
+      "images/Huawei Pura 80 Ultra/angle_3.jpg",
+      "images/Huawei Pura 80 Ultra/angle_4.jpg",
+      "images/Huawei Pura 80 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Huawei Pura 80 Ultra",
+      "display_name": "Huawei Pura 80 Ultra",
+      "brand": "Huawei",
+      "model": "Pura 80 Ultra"
+    }
+  },
+  "Tecno Spark 40 Pro+ review": {
+    "spec_url": "https://www.gsmarena.com/tecno_spark_40_pro+-13986.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Tecno Spark 40 Pro/main.jpg",
+      "images/Tecno Spark 40 Pro/angle_2.jpg",
+      "images/Tecno Spark 40 Pro/angle_3.jpg",
+      "images/Tecno Spark 40 Pro/angle_4.jpg",
+      "images/Tecno Spark 40 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Tecno Spark 40 Pro",
+      "display_name": "Tecno Spark 40 Pro",
+      "brand": "Tecno",
+      "model": "Spark 40 Pro"
+    }
+  },
+  "OnePlus Pad 3 review": {
+    "spec_url": "https://www.gsmarena.com/oneplus_pad_3_(global)-13881.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/OnePlus Pad 3/main.jpg",
+      "images/OnePlus Pad 3/angle_2.jpg",
+      "images/OnePlus Pad 3/angle_3.jpg",
+      "images/OnePlus Pad 3/angle_4.jpg",
+      "images/OnePlus Pad 3/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "OnePlus Pad 3",
+      "display_name": "OnePlus Pad 3",
+      "brand": "OnePlus",
+      "model": "Pad 3"
+    }
+  },
+  "Samsung Galaxy Z Flip7 FE review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy Z Flip7 FE/main.jpg",
+      "images/Samsung Galaxy Z Flip7 FE/angle_2.jpg",
+      "images/Samsung Galaxy Z Flip7 FE/angle_3.jpg",
+      "images/Samsung Galaxy Z Flip7 FE/angle_4.jpg",
+      "images/Samsung Galaxy Z Flip7 FE/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy Z Flip7 FE",
+      "display_name": "Samsung Galaxy Z Flip7 FE",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip7 FE"
+    }
+  },
+  "vivo X Fold5 review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x_fold5_5g-13858.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X Fold5/main.jpg",
+      "images/vivo X Fold5/angle_2.jpg",
+      "images/vivo X Fold5/angle_3.jpg",
+      "images/vivo X Fold5/angle_4.jpg",
+      "images/vivo X Fold5/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X Fold5",
+      "display_name": "vivo X Fold5",
+      "brand": "vivo",
+      "model": "X Fold5"
+    }
+  },
+  "Samsung Galaxy Watch8 and Galaxy Watch8 Classic review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_watch8_classic-13998.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy Watch8 and Galaxy Watch8 Classic/main.jpg",
+      "images/Samsung Galaxy Watch8 and Galaxy Watch8 Classic/angle_2.jpg",
+      "images/Samsung Galaxy Watch8 and Galaxy Watch8 Classic/angle_3.jpg",
+      "images/Samsung Galaxy Watch8 and Galaxy Watch8 Classic/angle_4.jpg",
+      "images/Samsung Galaxy Watch8 and Galaxy Watch8 Classic/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy Watch8 and Galaxy Watch8 Classic",
+      "display_name": "Samsung Galaxy Watch8 and Galaxy Watch8 Classic",
+      "brand": "Samsung",
+      "model": "Galaxy Watch8 and Galaxy Watch8 Classic"
+    }
+  },
+  "Realme 15 Pro hands-on review": {
+    "spec_url": "https://www.gsmarena.com/realme_15_pro_5g-14017.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme 15 Pro/main.jpg",
+      "images/Realme 15 Pro/angle_2.jpg",
+      "images/Realme 15 Pro/angle_3.jpg",
+      "images/Realme 15 Pro/angle_4.jpg",
+      "images/Realme 15 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme 15 Pro",
+      "display_name": "Realme 15 Pro",
+      "brand": "Realme",
+      "model": "15 Pro"
+    }
+  },
+  "Samsung Galaxy Z Flip7 review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy Z Flip7/main.jpg",
+      "images/Samsung Galaxy Z Flip7/angle_2.jpg",
+      "images/Samsung Galaxy Z Flip7/angle_3.jpg",
+      "images/Samsung Galaxy Z Flip7/angle_4.jpg",
+      "images/Samsung Galaxy Z Flip7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy Z Flip7",
+      "display_name": "Samsung Galaxy Z Flip7",
+      "brand": "Samsung",
+      "model": "Galaxy Z Flip7"
+    }
+  },
+  "Apple iPad 11-inch A16 (2025) review": {
+    "spec_url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+    "image_count": 4,
+    "image_paths": [
+      "images/Apple iPad 11-inch A16/main.jpg",
+      "images/Apple iPad 11-inch A16/angle_2.jpg",
+      "images/Apple iPad 11-inch A16/angle_3.jpg",
+      "images/Apple iPad 11-inch A16/angle_4.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPad 11-inch A16",
+      "display_name": "Apple iPad 11-inch A16",
+      "brand": "Apple",
+      "model": "iPad 11-inch A16"
+    }
+  },
+  "Samsung Galaxy Z Fold7 review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy Z Fold7/main.jpg",
+      "images/Samsung Galaxy Z Fold7/angle_2.jpg",
+      "images/Samsung Galaxy Z Fold7/angle_3.jpg",
+      "images/Samsung Galaxy Z Fold7/angle_4.jpg",
+      "images/Samsung Galaxy Z Fold7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy Z Fold7",
+      "display_name": "Samsung Galaxy Z Fold7",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold7"
+    }
+  },
+  "OnePlus Nord CE5 review": {
+    "spec_url": "https://www.gsmarena.com/oneplus_nord_ce5_5g-13792.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/OnePlus Nord CE5/main.jpg",
+      "images/OnePlus Nord CE5/angle_2.jpg",
+      "images/OnePlus Nord CE5/angle_3.jpg",
+      "images/OnePlus Nord CE5/angle_4.jpg",
+      "images/OnePlus Nord CE5/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "OnePlus Nord CE5",
+      "display_name": "OnePlus Nord CE5",
+      "brand": "OnePlus",
+      "model": "Nord CE5"
+    }
+  },
+  "Nothing Phone (3) review": {
+    "spec_url": "https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Nothing Phone/main.jpg",
+      "images/Nothing Phone/angle_2.jpg",
+      "images/Nothing Phone/angle_3.jpg",
+      "images/Nothing Phone/angle_4.jpg",
+      "images/Nothing Phone/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Nothing Phone",
+      "display_name": "Nothing Phone",
+      "brand": "Nothing",
+      "model": "Phone"
+    }
+  },
+  "vivo X200 FE review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x200_fe_5g-13847.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X200 FE/main.jpg",
+      "images/vivo X200 FE/angle_2.jpg",
+      "images/vivo X200 FE/angle_3.jpg",
+      "images/vivo X200 FE/angle_4.jpg",
+      "images/vivo X200 FE/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X200 FE",
+      "display_name": "vivo X200 FE",
+      "brand": "vivo",
+      "model": "X200 FE"
+    }
+  },
+  "Huawei Pura 80 Ultra hands-on review": {
+    "spec_url": "https://www.gsmarena.com/huawei_pura_80_ultra_5g-13944.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Huawei Pura 80 Ultra/main.jpg",
+      "images/Huawei Pura 80 Ultra/angle_2.jpg",
+      "images/Huawei Pura 80 Ultra/angle_3.jpg",
+      "images/Huawei Pura 80 Ultra/angle_4.jpg",
+      "images/Huawei Pura 80 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Huawei Pura 80 Ultra",
+      "display_name": "Huawei Pura 80 Ultra",
+      "brand": "Huawei",
+      "model": "Pura 80 Ultra"
+    }
+  },
+  "Samsung Galaxy Z Fold7 and Z Flip7 hands-on review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy Z Fold7 and Z Flip7/main.jpg",
+      "images/Samsung Galaxy Z Fold7 and Z Flip7/angle_2.jpg",
+      "images/Samsung Galaxy Z Fold7 and Z Flip7/angle_3.jpg",
+      "images/Samsung Galaxy Z Fold7 and Z Flip7/angle_4.jpg",
+      "images/Samsung Galaxy Z Fold7 and Z Flip7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy Z Fold7 and Z Flip7",
+      "display_name": "Samsung Galaxy Z Fold7 and Z Flip7",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold7 and Z Flip7"
+    }
+  },
+  "OnePlus Nord 5 review": {
+    "spec_url": "https://www.gsmarena.com/oneplus_nord_5_5g-13992.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/OnePlus Nord 5/main.jpg",
+      "images/OnePlus Nord 5/angle_2.jpg",
+      "images/OnePlus Nord 5/angle_3.jpg",
+      "images/OnePlus Nord 5/angle_4.jpg",
+      "images/OnePlus Nord 5/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "OnePlus Nord 5",
+      "display_name": "OnePlus Nord 5",
+      "brand": "OnePlus",
+      "model": "Nord 5"
+    }
+  },
+  "Tecno Camon 40 Premier review": {
+    "spec_url": "https://www.gsmarena.com/tecno_camon_40_premier-13694.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Tecno Camon 40 Premier/main.jpg",
+      "images/Tecno Camon 40 Premier/angle_2.jpg",
+      "images/Tecno Camon 40 Premier/angle_3.jpg",
+      "images/Tecno Camon 40 Premier/angle_4.jpg",
+      "images/Tecno Camon 40 Premier/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Tecno Camon 40 Premier",
+      "display_name": "Tecno Camon 40 Premier",
+      "brand": "Tecno",
+      "model": "Camon 40 Premier"
+    }
+  },
+  "Infinix Xpad GT review": {
+    "spec_url": "https://www.gsmarena.com/infinix_xpad_gt-13890.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Xpad GT/main.jpg",
+      "images/Infinix Xpad GT/angle_2.jpg",
+      "images/Infinix Xpad GT/angle_3.jpg",
+      "images/Infinix Xpad GT/angle_4.jpg",
+      "images/Infinix Xpad GT/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Xpad GT",
+      "display_name": "Infinix Xpad GT",
+      "brand": "Infinix",
+      "model": "Xpad GT"
+    }
+  },
+  "Tecno Camon 40 Pro review": {
+    "spec_url": "https://www.gsmarena.com/tecno_camon_40_pro_5g-13695.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Tecno Camon 40 Pro/main.jpg",
+      "images/Tecno Camon 40 Pro/angle_2.jpg",
+      "images/Tecno Camon 40 Pro/angle_3.jpg",
+      "images/Tecno Camon 40 Pro/angle_4.jpg",
+      "images/Tecno Camon 40 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Tecno Camon 40 Pro",
+      "display_name": "Tecno Camon 40 Pro",
+      "brand": "Tecno",
+      "model": "Camon 40 Pro"
+    }
+  },
+  "Poco F7 review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco F7/main.jpg",
+      "images/Poco F7/angle_2.jpg",
+      "images/Poco F7/angle_3.jpg",
+      "images/Poco F7/angle_4.jpg",
+      "images/Poco F7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco F7",
+      "display_name": "Poco F7",
+      "brand": "Poco",
+      "model": "F7"
+    }
+  },
+  "Honor 400 review": {
+    "spec_url": "https://www.gsmarena.com/honor_400_5g-13799.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor 400/main.jpg",
+      "images/Honor 400/angle_2.jpg",
+      "images/Honor 400/angle_3.jpg",
+      "images/Honor 400/angle_4.jpg",
+      "images/Honor 400/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor 400",
+      "display_name": "Honor 400",
+      "brand": "Honor",
+      "model": "400"
+    }
+  },
+  "Motorola Razr+ 2025 review": {
+    "spec_url": "https://www.gsmarena.com/motorola_razr+_2025-13825.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Razr 2025/main.jpg",
+      "images/Motorola Razr 2025/angle_2.jpg",
+      "images/Motorola Razr 2025/angle_3.jpg",
+      "images/Motorola Razr 2025/angle_4.jpg",
+      "images/Motorola Razr 2025/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Razr 2025",
+      "display_name": "Motorola Razr 2025",
+      "brand": "Motorola",
+      "model": "Razr 2025"
+    }
+  },
+  "Tecno Pova Curve hands-on review": {
+    "spec_url": "https://www.gsmarena.com/tecno_pova_curve_5g-13915.php",
+    "image_count": 4,
+    "image_paths": [
+      "images/Tecno Pova Curve/main.jpg",
+      "images/Tecno Pova Curve/angle_2.jpg",
+      "images/Tecno Pova Curve/angle_3.jpg",
+      "images/Tecno Pova Curve/angle_4.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Tecno Pova Curve",
+      "display_name": "Tecno Pova Curve",
+      "brand": "Tecno",
+      "model": "Pova Curve"
+    }
+  },
+  "Xiaomi Redmi Pad 2 review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_pad_2-13908.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Pad 2/main.jpg",
+      "images/Xiaomi Redmi Pad 2/angle_2.jpg",
+      "images/Xiaomi Redmi Pad 2/angle_3.jpg",
+      "images/Xiaomi Redmi Pad 2/angle_4.jpg",
+      "images/Xiaomi Redmi Pad 2/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Pad 2",
+      "display_name": "Xiaomi Redmi Pad 2",
+      "brand": "Xiaomi",
+      "model": "Redmi Pad 2"
+    }
+  },
+  "Infinix GT 30 Pro review": {
+    "spec_url": "https://www.gsmarena.com/infinix_gt_30_pro_5g-13889.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix GT 30 Pro/main.jpg",
+      "images/Infinix GT 30 Pro/angle_2.jpg",
+      "images/Infinix GT 30 Pro/angle_3.jpg",
+      "images/Infinix GT 30 Pro/angle_4.jpg",
+      "images/Infinix GT 30 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix GT 30 Pro",
+      "display_name": "Infinix GT 30 Pro",
+      "brand": "Infinix",
+      "model": "GT 30 Pro"
+    }
+  },
+  "Motorola Razr 2025/Razr 60 review": {
+    "spec_url": "https://www.gsmarena.com/motorola_razr_2025-13824.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Razr 2025Razr 60/main.jpg",
+      "images/Motorola Razr 2025Razr 60/angle_2.jpg",
+      "images/Motorola Razr 2025Razr 60/angle_3.jpg",
+      "images/Motorola Razr 2025Razr 60/angle_4.jpg",
+      "images/Motorola Razr 2025Razr 60/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Razr 2025Razr 60",
+      "display_name": "Motorola Razr 2025Razr 60",
+      "brand": "Motorola",
+      "model": "Razr 2025Razr 60"
+    }
+  },
+  "Xiaomi Pad 7 Pro review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_pad_7_pro-13474.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Pad 7 Pro/main.jpg",
+      "images/Xiaomi Pad 7 Pro/angle_2.jpg",
+      "images/Xiaomi Pad 7 Pro/angle_3.jpg",
+      "images/Xiaomi Pad 7 Pro/angle_4.jpg",
+      "images/Xiaomi Pad 7 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Pad 7 Pro",
+      "display_name": "Xiaomi Pad 7 Pro",
+      "brand": "Xiaomi",
+      "model": "Pad 7 Pro"
+    }
+  },
+  "Honor 400 Pro review": {
+    "spec_url": "https://www.gsmarena.com/honor_400_pro_5g-13798.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor 400 Pro/main.jpg",
+      "images/Honor 400 Pro/angle_2.jpg",
+      "images/Honor 400 Pro/angle_3.jpg",
+      "images/Honor 400 Pro/angle_4.jpg",
+      "images/Honor 400 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor 400 Pro",
+      "display_name": "Honor 400 Pro",
+      "brand": "Honor",
+      "model": "400 Pro"
+    }
+  },
+  "OnePlus 13s hands-on review": {
+    "spec_url": "https://www.gsmarena.com/oneplus_13s_5g-13818.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/OnePlus 13s/main.jpg",
+      "images/OnePlus 13s/angle_2.jpg",
+      "images/OnePlus 13s/angle_3.jpg",
+      "images/OnePlus 13s/angle_4.jpg",
+      "images/OnePlus 13s/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "OnePlus 13s",
+      "display_name": "OnePlus 13s",
+      "brand": "OnePlus",
+      "model": "13s"
+    }
+  },
+  "nubia Z70S Ultra review": {
+    "spec_url": "https://www.gsmarena.com/zte_nubia_z70s_ultra_5g-13819.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/nubia Z70S Ultra/main.jpg",
+      "images/nubia Z70S Ultra/angle_2.jpg",
+      "images/nubia Z70S Ultra/angle_3.jpg",
+      "images/nubia Z70S Ultra/angle_4.jpg",
+      "images/nubia Z70S Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "nubia Z70S Ultra",
+      "display_name": "nubia Z70S Ultra",
+      "brand": "nubia",
+      "model": "Z70S Ultra"
+    }
+  },
+  "vivo X200 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x200_ultra-13762.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X200 Ultra/main.jpg",
+      "images/vivo X200 Ultra/angle_2.jpg",
+      "images/vivo X200 Ultra/angle_3.jpg",
+      "images/vivo X200 Ultra/angle_4.jpg",
+      "images/vivo X200 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X200 Ultra",
+      "display_name": "vivo X200 Ultra",
+      "brand": "vivo",
+      "model": "X200 Ultra"
+    }
+  },
+  "Realme GT 7 review": {
+    "spec_url": "https://www.gsmarena.com/realme_gt_7_5g-13863.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme GT 7/main.jpg",
+      "images/Realme GT 7/angle_2.jpg",
+      "images/Realme GT 7/angle_3.jpg",
+      "images/Realme GT 7/angle_4.jpg",
+      "images/Realme GT 7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme GT 7",
+      "display_name": "Realme GT 7",
+      "brand": "Realme",
+      "model": "GT 7"
+    }
+  },
+  "Samsung Galaxy S25 Edge review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25_edge-13506.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S25 Edge/main.jpg",
+      "images/Samsung Galaxy S25 Edge/angle_2.jpg",
+      "images/Samsung Galaxy S25 Edge/angle_3.jpg",
+      "images/Samsung Galaxy S25 Edge/angle_4.jpg",
+      "images/Samsung Galaxy S25 Edge/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S25 Edge",
+      "display_name": "Samsung Galaxy S25 Edge",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Edge"
+    }
+  },
+  "Motorola Edge 60 review": {
+    "spec_url": "https://www.gsmarena.com/motorola_edge_60-13779.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Edge 60/main.jpg",
+      "images/Motorola Edge 60/angle_2.jpg",
+      "images/Motorola Edge 60/angle_3.jpg",
+      "images/Motorola Edge 60/angle_4.jpg",
+      "images/Motorola Edge 60/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Edge 60",
+      "display_name": "Motorola Edge 60",
+      "brand": "Motorola",
+      "model": "Edge 60"
+    }
+  },
+  "Motorola Edge 60 Pro review": {
+    "spec_url": "https://www.gsmarena.com/motorola_edge_60_pro-13815.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Edge 60 Pro/main.jpg",
+      "images/Motorola Edge 60 Pro/angle_2.jpg",
+      "images/Motorola Edge 60 Pro/angle_3.jpg",
+      "images/Motorola Edge 60 Pro/angle_4.jpg",
+      "images/Motorola Edge 60 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Edge 60 Pro",
+      "display_name": "Motorola Edge 60 Pro",
+      "brand": "Motorola",
+      "model": "Edge 60 Pro"
+    }
+  },
+  "Sony Xperia 1 VII review": {
+    "spec_url": "https://www.gsmarena.com/sony_xperia_1_vii_5g-13843.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Sony Xperia 1 VII/main.jpg",
+      "images/Sony Xperia 1 VII/angle_2.jpg",
+      "images/Sony Xperia 1 VII/angle_3.jpg",
+      "images/Sony Xperia 1 VII/angle_4.jpg",
+      "images/Sony Xperia 1 VII/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Sony Xperia 1 VII",
+      "display_name": "Sony Xperia 1 VII",
+      "brand": "Sony",
+      "model": "Xperia 1 VII"
+    }
+  },
+  "Nothing CMF Phone 2 Pro review": {
+    "spec_url": "https://www.gsmarena.com/nothing_cmf_phone_2_pro_5g-13821.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Nothing CMF Phone 2 Pro/main.jpg",
+      "images/Nothing CMF Phone 2 Pro/angle_2.jpg",
+      "images/Nothing CMF Phone 2 Pro/angle_3.jpg",
+      "images/Nothing CMF Phone 2 Pro/angle_4.jpg",
+      "images/Nothing CMF Phone 2 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Nothing CMF Phone 2 Pro",
+      "display_name": "Nothing CMF Phone 2 Pro",
+      "brand": "Nothing",
+      "model": "CMF Phone 2 Pro"
+    }
+  },
+  "Moto G Stylus 5G (2025) review": {
+    "spec_url": "https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2025)-13784.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Moto G Stylus 5G/main.jpg",
+      "images/Moto G Stylus 5G/angle_2.jpg",
+      "images/Moto G Stylus 5G/angle_3.jpg",
+      "images/Moto G Stylus 5G/angle_4.jpg",
+      "images/Moto G Stylus 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Moto G Stylus 5G",
+      "display_name": "Moto G Stylus 5G",
+      "brand": "Moto",
+      "model": "G Stylus 5G"
+    }
+  },
+  "Google Pixel 9a review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 9a/main.jpg",
+      "images/Google Pixel 9a/angle_2.jpg",
+      "images/Google Pixel 9a/angle_3.jpg",
+      "images/Google Pixel 9a/angle_4.jpg",
+      "images/Google Pixel 9a/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 9a",
+      "display_name": "Google Pixel 9a",
+      "brand": "Google",
+      "model": "Pixel 9a"
+    }
+  },
+  "Motorola Razr 60 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/motorola_razr_60_ultra-13805.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Razr 60 Ultra/main.jpg",
+      "images/Motorola Razr 60 Ultra/angle_2.jpg",
+      "images/Motorola Razr 60 Ultra/angle_3.jpg",
+      "images/Motorola Razr 60 Ultra/angle_4.jpg",
+      "images/Motorola Razr 60 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Razr 60 Ultra",
+      "display_name": "Motorola Razr 60 Ultra",
+      "brand": "Motorola",
+      "model": "Razr 60 Ultra"
+    }
+  },
+  "nubia RedMagic 10 Air review": {
+    "spec_url": "https://www.gsmarena.com/zte_nubia_redmagic_10_air_5g-13797.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/nubia RedMagic 10 Air/main.jpg",
+      "images/nubia RedMagic 10 Air/angle_2.jpg",
+      "images/nubia RedMagic 10 Air/angle_3.jpg",
+      "images/nubia RedMagic 10 Air/angle_4.jpg",
+      "images/nubia RedMagic 10 Air/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "nubia RedMagic 10 Air",
+      "display_name": "nubia RedMagic 10 Air",
+      "brand": "nubia",
+      "model": "RedMagic 10 Air"
+    }
+  },
+  "Oppo Find X8 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/oppo_find_x8_ultra-13753.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Oppo Find X8 Ultra/main.jpg",
+      "images/Oppo Find X8 Ultra/angle_2.jpg",
+      "images/Oppo Find X8 Ultra/angle_3.jpg",
+      "images/Oppo Find X8 Ultra/angle_4.jpg",
+      "images/Oppo Find X8 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Oppo Find X8 Ultra",
+      "display_name": "Oppo Find X8 Ultra",
+      "brand": "Oppo",
+      "model": "Find X8 Ultra"
+    }
+  },
+  "Infinix Note 50 Pro 4G review": {
+    "spec_url": "https://www.gsmarena.com/infinix_note_50_pro_4g-13701.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Note 50 Pro 4G/main.jpg",
+      "images/Infinix Note 50 Pro 4G/angle_2.jpg",
+      "images/Infinix Note 50 Pro 4G/angle_3.jpg",
+      "images/Infinix Note 50 Pro 4G/angle_4.jpg",
+      "images/Infinix Note 50 Pro 4G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Note 50 Pro 4G",
+      "display_name": "Infinix Note 50 Pro 4G",
+      "brand": "Infinix",
+      "model": "Note 50 Pro 4G"
+    }
+  },
+  "Google Pixel 9a hands-on review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 9a/main.jpg",
+      "images/Google Pixel 9a/angle_2.jpg",
+      "images/Google Pixel 9a/angle_3.jpg",
+      "images/Google Pixel 9a/angle_4.jpg",
+      "images/Google Pixel 9a/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 9a",
+      "display_name": "Google Pixel 9a",
+      "brand": "Google",
+      "model": "Pixel 9a"
+    }
+  },
+  "AI Object Removal - which phone is best?": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-13322.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/AI Object Removal - which phone is best/main.jpg",
+      "images/AI Object Removal - which phone is best/angle_2.jpg",
+      "images/AI Object Removal - which phone is best/angle_3.jpg",
+      "images/AI Object Removal - which phone is best/angle_4.jpg",
+      "images/AI Object Removal - which phone is best/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "AI Object Removal - which phone is best",
+      "display_name": "AI Object Removal - which phone is best",
+      "brand": "AI",
+      "model": "Object Removal - which phone is best"
+    }
+  },
+  "Motorola Edge 60 Fusion review": {
+    "spec_url": "https://www.gsmarena.com/motorola_edge_60_fusion-13752.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Edge 60 Fusion/main.jpg",
+      "images/Motorola Edge 60 Fusion/angle_2.jpg",
+      "images/Motorola Edge 60 Fusion/angle_3.jpg",
+      "images/Motorola Edge 60 Fusion/angle_4.jpg",
+      "images/Motorola Edge 60 Fusion/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Edge 60 Fusion",
+      "display_name": "Motorola Edge 60 Fusion",
+      "brand": "Motorola",
+      "model": "Edge 60 Fusion"
+    }
+  },
+  "vivo V50 review": {
+    "spec_url": "https://www.gsmarena.com/vivo_v50-13656.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo V50/main.jpg",
+      "images/vivo V50/angle_2.jpg",
+      "images/vivo V50/angle_3.jpg",
+      "images/vivo V50/angle_4.jpg",
+      "images/vivo V50/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo V50",
+      "display_name": "vivo V50",
+      "brand": "vivo",
+      "model": "V50"
+    }
+  },
+  "Infinix Note 50 Pro+ review": {
+    "spec_url": "https://www.gsmarena.com/infinix_note_50_pro+-13746.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Note 50 Pro/main.jpg",
+      "images/Infinix Note 50 Pro/angle_2.jpg",
+      "images/Infinix Note 50 Pro/angle_3.jpg",
+      "images/Infinix Note 50 Pro/angle_4.jpg",
+      "images/Infinix Note 50 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Note 50 Pro",
+      "display_name": "Infinix Note 50 Pro",
+      "brand": "Infinix",
+      "model": "Note 50 Pro"
+    }
+  },
+  "Samsung Galaxy A26 review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a26-13679.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A26/main.jpg",
+      "images/Samsung Galaxy A26/angle_2.jpg",
+      "images/Samsung Galaxy A26/angle_3.jpg",
+      "images/Samsung Galaxy A26/angle_4.jpg",
+      "images/Samsung Galaxy A26/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A26",
+      "display_name": "Samsung Galaxy A26",
+      "brand": "Samsung",
+      "model": "Galaxy A26"
+    }
+  },
+  "Poco F7 Pro review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_f7_pro-13724.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco F7 Pro/main.jpg",
+      "images/Poco F7 Pro/angle_2.jpg",
+      "images/Poco F7 Pro/angle_3.jpg",
+      "images/Poco F7 Pro/angle_4.jpg",
+      "images/Poco F7 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco F7 Pro",
+      "display_name": "Poco F7 Pro",
+      "brand": "Poco",
+      "model": "F7 Pro"
+    }
+  },
+  "Poco F7 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_f7_ultra-13723.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco F7 Ultra/main.jpg",
+      "images/Poco F7 Ultra/angle_2.jpg",
+      "images/Poco F7 Ultra/angle_3.jpg",
+      "images/Poco F7 Ultra/angle_4.jpg",
+      "images/Poco F7 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco F7 Ultra",
+      "display_name": "Poco F7 Ultra",
+      "brand": "Poco",
+      "model": "F7 Ultra"
+    }
+  },
+  "Samsung Galaxy A36 review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a36-13497.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A36/main.jpg",
+      "images/Samsung Galaxy A36/angle_2.jpg",
+      "images/Samsung Galaxy A36/angle_3.jpg",
+      "images/Samsung Galaxy A36/angle_4.jpg",
+      "images/Samsung Galaxy A36/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A36",
+      "display_name": "Samsung Galaxy A36",
+      "brand": "Samsung",
+      "model": "Galaxy A36"
+    }
+  },
+  "Nothing Phone (3a) review": {
+    "spec_url": "https://www.gsmarena.com/nothing_phone_(3a)-13672.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Nothing Phone/main.jpg",
+      "images/Nothing Phone/angle_2.jpg",
+      "images/Nothing Phone/angle_3.jpg",
+      "images/Nothing Phone/angle_4.jpg",
+      "images/Nothing Phone/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Nothing Phone",
+      "display_name": "Nothing Phone",
+      "brand": "Nothing",
+      "model": "Phone"
+    }
+  },
+  "Samsung Galaxy A56 review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a56-13603.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A56/main.jpg",
+      "images/Samsung Galaxy A56/angle_2.jpg",
+      "images/Samsung Galaxy A56/angle_3.jpg",
+      "images/Samsung Galaxy A56/angle_4.jpg",
+      "images/Samsung Galaxy A56/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A56",
+      "display_name": "Samsung Galaxy A56",
+      "brand": "Samsung",
+      "model": "Galaxy A56"
+    }
+  },
+  "Nothing Phone (3a) Pro review": {
+    "spec_url": "https://www.gsmarena.com/nothing_phone_(3a)_pro-13649.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Nothing Phone Pro/main.jpg",
+      "images/Nothing Phone Pro/angle_2.jpg",
+      "images/Nothing Phone Pro/angle_3.jpg",
+      "images/Nothing Phone Pro/angle_4.jpg",
+      "images/Nothing Phone Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Nothing Phone Pro",
+      "display_name": "Nothing Phone Pro",
+      "brand": "Nothing",
+      "model": "Phone Pro"
+    }
+  },
+  "Huawei Mate XT Ultimate review": {
+    "spec_url": "https://www.gsmarena.com/huawei_mate_xt_ultimate-13320.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Huawei Mate XT Ultimate/main.jpg",
+      "images/Huawei Mate XT Ultimate/angle_2.jpg",
+      "images/Huawei Mate XT Ultimate/angle_3.jpg",
+      "images/Huawei Mate XT Ultimate/angle_4.jpg",
+      "images/Huawei Mate XT Ultimate/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Huawei Mate XT Ultimate",
+      "display_name": "Huawei Mate XT Ultimate",
+      "brand": "Huawei",
+      "model": "Mate XT Ultimate"
+    }
+  },
+  "Oppo Reno13 review": {
+    "spec_url": "https://www.gsmarena.com/oppo_reno13-13515.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Oppo Reno13/main.jpg",
+      "images/Oppo Reno13/angle_2.jpg",
+      "images/Oppo Reno13/angle_3.jpg",
+      "images/Oppo Reno13/angle_4.jpg",
+      "images/Oppo Reno13/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Oppo Reno13",
+      "display_name": "Oppo Reno13",
+      "brand": "Oppo",
+      "model": "Reno13"
+    }
+  },
+  "Apple iPhone 16e review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 16e/main.jpg",
+      "images/Apple iPhone 16e/angle_2.jpg",
+      "images/Apple iPhone 16e/angle_3.jpg",
+      "images/Apple iPhone 16e/angle_4.jpg",
+      "images/Apple iPhone 16e/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 16e",
+      "display_name": "Apple iPhone 16e",
+      "brand": "Apple",
+      "model": "iPhone 16e"
+    }
+  },
+  "Nothing Phone (3a) and Phone (3a) Pro hands-on review": {
+    "spec_url": "https://www.gsmarena.com/nothing_phone_(3a)_pro-13649.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Nothing Phone and Phone Pro/main.jpg",
+      "images/Nothing Phone and Phone Pro/angle_2.jpg",
+      "images/Nothing Phone and Phone Pro/angle_3.jpg",
+      "images/Nothing Phone and Phone Pro/angle_4.jpg",
+      "images/Nothing Phone and Phone Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Nothing Phone and Phone Pro",
+      "display_name": "Nothing Phone and Phone Pro",
+      "brand": "Nothing",
+      "model": "Phone and Phone Pro"
+    }
+  },
+  "Samsung Galaxy A36 and A56 hands-on review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a56-13603.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A36 and A56/main.jpg",
+      "images/Samsung Galaxy A36 and A56/angle_2.jpg",
+      "images/Samsung Galaxy A36 and A56/angle_3.jpg",
+      "images/Samsung Galaxy A36 and A56/angle_4.jpg",
+      "images/Samsung Galaxy A36 and A56/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A36 and A56",
+      "display_name": "Samsung Galaxy A36 and A56",
+      "brand": "Samsung",
+      "model": "Galaxy A36 and A56"
+    }
+  },
+  "Xiaomi 15 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_15_ultra-13657.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi 15 Ultra/main.jpg",
+      "images/Xiaomi 15 Ultra/angle_2.jpg",
+      "images/Xiaomi 15 Ultra/angle_3.jpg",
+      "images/Xiaomi 15 Ultra/angle_4.jpg",
+      "images/Xiaomi 15 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 15 Ultra",
+      "display_name": "Xiaomi 15 Ultra",
+      "brand": "Xiaomi",
+      "model": "15 Ultra"
+    }
+  },
+  "Xiaomi 15 review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_15-13472.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi 15/main.jpg",
+      "images/Xiaomi 15/angle_2.jpg",
+      "images/Xiaomi 15/angle_3.jpg",
+      "images/Xiaomi 15/angle_4.jpg",
+      "images/Xiaomi 15/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 15",
+      "display_name": "Xiaomi 15",
+      "brand": "Xiaomi",
+      "model": "15"
+    }
+  },
+  "Moto G Power (2025) review": {
+    "spec_url": "https://www.gsmarena.com/motorola_moto_g_power_(2025)-13623.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Moto G Power/main.jpg",
+      "images/Moto G Power/angle_2.jpg",
+      "images/Moto G Power/angle_3.jpg",
+      "images/Moto G Power/angle_4.jpg",
+      "images/Moto G Power/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Moto G Power",
+      "display_name": "Moto G Power",
+      "brand": "Moto",
+      "model": "G Power"
+    }
+  },
+  "Oppo Find N5 review": {
+    "spec_url": "https://www.gsmarena.com/oppo_find_n5-13659.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Oppo Find N5/main.jpg",
+      "images/Oppo Find N5/angle_2.jpg",
+      "images/Oppo Find N5/angle_3.jpg",
+      "images/Oppo Find N5/angle_4.jpg",
+      "images/Oppo Find N5/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Oppo Find N5",
+      "display_name": "Oppo Find N5",
+      "brand": "Oppo",
+      "model": "Find N5"
+    }
+  },
+  "Xiaomi Redmi Note 14 5G review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_5g_(global)-13615.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Note 14 5G/main.jpg",
+      "images/Xiaomi Redmi Note 14 5G/angle_2.jpg",
+      "images/Xiaomi Redmi Note 14 5G/angle_3.jpg",
+      "images/Xiaomi Redmi Note 14 5G/angle_4.jpg",
+      "images/Xiaomi Redmi Note 14 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Note 14 5G",
+      "display_name": "Xiaomi Redmi Note 14 5G",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 5G"
+    }
+  },
+  "Honor Magic7 RSR Porsche Design review": {
+    "spec_url": "https://www.gsmarena.com/honor_magic7_rsr_porsche_design-13588.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor Magic7 RSR Porsche Design/main.jpg",
+      "images/Honor Magic7 RSR Porsche Design/angle_2.jpg",
+      "images/Honor Magic7 RSR Porsche Design/angle_3.jpg",
+      "images/Honor Magic7 RSR Porsche Design/angle_4.jpg",
+      "images/Honor Magic7 RSR Porsche Design/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor Magic7 RSR Porsche Design",
+      "display_name": "Honor Magic7 RSR Porsche Design",
+      "brand": "Honor",
+      "model": "Magic7 RSR Porsche Design"
+    }
+  },
+  "Xiaomi Redmi Note 14 4G review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_4g_(global)-13616.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Note 14 4G/main.jpg",
+      "images/Xiaomi Redmi Note 14 4G/angle_2.jpg",
+      "images/Xiaomi Redmi Note 14 4G/angle_3.jpg",
+      "images/Xiaomi Redmi Note 14 4G/angle_4.jpg",
+      "images/Xiaomi Redmi Note 14 4G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Note 14 4G",
+      "display_name": "Xiaomi Redmi Note 14 4G",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 4G"
+    }
+  },
+  "Samsung Galaxy S25+ review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S25/main.jpg",
+      "images/Samsung Galaxy S25/angle_2.jpg",
+      "images/Samsung Galaxy S25/angle_3.jpg",
+      "images/Samsung Galaxy S25/angle_4.jpg",
+      "images/Samsung Galaxy S25/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S25",
+      "display_name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "model": "Galaxy S25"
+    }
+  },
+  "Asus Zenfone 12 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/asus_zenfone_12_ultra-13653.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Asus Zenfone 12 Ultra/main.jpg",
+      "images/Asus Zenfone 12 Ultra/angle_2.jpg",
+      "images/Asus Zenfone 12 Ultra/angle_3.jpg",
+      "images/Asus Zenfone 12 Ultra/angle_4.jpg",
+      "images/Asus Zenfone 12 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Asus Zenfone 12 Ultra",
+      "display_name": "Asus Zenfone 12 Ultra",
+      "brand": "Asus",
+      "model": "Zenfone 12 Ultra"
+    }
+  },
+  "Samsung Galaxy S25 review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S25/main.jpg",
+      "images/Samsung Galaxy S25/angle_2.jpg",
+      "images/Samsung Galaxy S25/angle_3.jpg",
+      "images/Samsung Galaxy S25/angle_4.jpg",
+      "images/Samsung Galaxy S25/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S25",
+      "display_name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "model": "Galaxy S25"
+    }
+  },
+  "Samsung Galaxy S25 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-13322.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S25 Ultra/main.jpg",
+      "images/Samsung Galaxy S25 Ultra/angle_2.jpg",
+      "images/Samsung Galaxy S25 Ultra/angle_3.jpg",
+      "images/Samsung Galaxy S25 Ultra/angle_4.jpg",
+      "images/Samsung Galaxy S25 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S25 Ultra",
+      "display_name": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra"
+    }
+  },
+  "Realme 14 Pro+ review": {
+    "spec_url": "https://www.gsmarena.com/realme_14_pro+-13585.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme 14 Pro/main.jpg",
+      "images/Realme 14 Pro/angle_2.jpg",
+      "images/Realme 14 Pro/angle_3.jpg",
+      "images/Realme 14 Pro/angle_4.jpg",
+      "images/Realme 14 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme 14 Pro",
+      "display_name": "Realme 14 Pro",
+      "brand": "Realme",
+      "model": "14 Pro"
+    }
+  },
+  "Xiaomi Pad 7 hands-on review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_pad_7-13475.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Pad 7/main.jpg",
+      "images/Xiaomi Pad 7/angle_2.jpg",
+      "images/Xiaomi Pad 7/angle_3.jpg",
+      "images/Xiaomi Pad 7/angle_4.jpg",
+      "images/Xiaomi Pad 7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Pad 7",
+      "display_name": "Xiaomi Pad 7",
+      "brand": "Xiaomi",
+      "model": "Pad 7"
+    }
+  },
+  "vivo X200 review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x200-13433.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X200/main.jpg",
+      "images/vivo X200/angle_2.jpg",
+      "images/vivo X200/angle_3.jpg",
+      "images/vivo X200/angle_4.jpg",
+      "images/vivo X200/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X200",
+      "display_name": "vivo X200",
+      "brand": "vivo",
+      "model": "X200"
+    }
+  },
+  "Samsung Galaxy S25 Ultra, S25+ and S25 hands-on review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-13322.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S25 Ultra S25 and S25/main.jpg",
+      "images/Samsung Galaxy S25 Ultra S25 and S25/angle_2.jpg",
+      "images/Samsung Galaxy S25 Ultra S25 and S25/angle_3.jpg",
+      "images/Samsung Galaxy S25 Ultra S25 and S25/angle_4.jpg",
+      "images/Samsung Galaxy S25 Ultra S25 and S25/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S25 Ultra S25 and S25",
+      "display_name": "Samsung Galaxy S25 Ultra S25 and S25",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra S25 and S25"
+    }
+  },
+  "Xiaomi Redmi Note 14 Pro 4G review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_4g_(global)-13614.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Note 14 Pro 4G/main.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 4G/angle_2.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 4G/angle_3.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 4G/angle_4.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 4G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Note 14 Pro 4G",
+      "display_name": "Xiaomi Redmi Note 14 Pro 4G",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 Pro 4G"
+    }
+  },
+  "Xiaomi Redmi Note 14 Pro+ (Global) review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro+_5g_(global)-13612.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Note 14 Pro/main.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_2.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_3.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_4.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Note 14 Pro",
+      "display_name": "Xiaomi Redmi Note 14 Pro",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 Pro"
+    }
+  },
+  "Honor Magic7 Pro review": {
+    "spec_url": "https://www.gsmarena.com/honor_magic7_pro-13480.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor Magic7 Pro/main.jpg",
+      "images/Honor Magic7 Pro/angle_2.jpg",
+      "images/Honor Magic7 Pro/angle_3.jpg",
+      "images/Honor Magic7 Pro/angle_4.jpg",
+      "images/Honor Magic7 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor Magic7 Pro",
+      "display_name": "Honor Magic7 Pro",
+      "brand": "Honor",
+      "model": "Magic7 Pro"
+    }
+  },
+  "Poco X7 Pro review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_x7_pro-13582.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco X7 Pro/main.jpg",
+      "images/Poco X7 Pro/angle_2.jpg",
+      "images/Poco X7 Pro/angle_3.jpg",
+      "images/Poco X7 Pro/angle_4.jpg",
+      "images/Poco X7 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco X7 Pro",
+      "display_name": "Poco X7 Pro",
+      "brand": "Poco",
+      "model": "X7 Pro"
+    }
+  },
+  "OnePlus 13R review": {
+    "spec_url": "https://www.gsmarena.com/oneplus_13r-13548.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/OnePlus 13R/main.jpg",
+      "images/OnePlus 13R/angle_2.jpg",
+      "images/OnePlus 13R/angle_3.jpg",
+      "images/OnePlus 13R/angle_4.jpg",
+      "images/OnePlus 13R/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "OnePlus 13R",
+      "display_name": "OnePlus 13R",
+      "brand": "OnePlus",
+      "model": "13R"
+    }
+  },
+  "Xiaomi Redmi Note 14 Pro 5G (Global) review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_5g_(global)-13613.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Note 14 Pro 5G/main.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 5G/angle_2.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 5G/angle_3.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 5G/angle_4.jpg",
+      "images/Xiaomi Redmi Note 14 Pro 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Note 14 Pro 5G",
+      "display_name": "Xiaomi Redmi Note 14 Pro 5G",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 Pro 5G"
+    }
+  },
+  "Poco X7 (Global) review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_x7-13604.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco X7/main.jpg",
+      "images/Poco X7/angle_2.jpg",
+      "images/Poco X7/angle_3.jpg",
+      "images/Poco X7/angle_4.jpg",
+      "images/Poco X7/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco X7",
+      "display_name": "Poco X7",
+      "brand": "Poco",
+      "model": "X7"
+    }
+  },
+  "vivo X200 Pro (Global) review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x200_pro-13410.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X200 Pro/main.jpg",
+      "images/vivo X200 Pro/angle_2.jpg",
+      "images/vivo X200 Pro/angle_3.jpg",
+      "images/vivo X200 Pro/angle_4.jpg",
+      "images/vivo X200 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X200 Pro",
+      "display_name": "vivo X200 Pro",
+      "brand": "vivo",
+      "model": "X200 Pro"
+    }
+  },
+  "OnePlus 13 review": {
+    "spec_url": "https://www.gsmarena.com/oneplus_13-13477.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/OnePlus 13/main.jpg",
+      "images/OnePlus 13/angle_2.jpg",
+      "images/OnePlus 13/angle_3.jpg",
+      "images/OnePlus 13/angle_4.jpg",
+      "images/OnePlus 13/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "OnePlus 13",
+      "display_name": "OnePlus 13",
+      "brand": "OnePlus",
+      "model": "13"
+    }
+  },
+  "Poco C75 5G hands-on review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_poco_c75_5g-13571.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Poco C75 5G/main.jpg",
+      "images/Poco C75 5G/angle_2.jpg",
+      "images/Poco C75 5G/angle_3.jpg",
+      "images/Poco C75 5G/angle_4.jpg",
+      "images/Poco C75 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Poco C75 5G",
+      "display_name": "Poco C75 5G",
+      "brand": "Poco",
+      "model": "C75 5G"
+    }
+  },
+  "Huawei Mate X6 review": {
+    "spec_url": "https://www.gsmarena.com/huawei_mate_x6-13521.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Huawei Mate X6/main.jpg",
+      "images/Huawei Mate X6/angle_2.jpg",
+      "images/Huawei Mate X6/angle_3.jpg",
+      "images/Huawei Mate X6/angle_4.jpg",
+      "images/Huawei Mate X6/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Huawei Mate X6",
+      "display_name": "Huawei Mate X6",
+      "brand": "Huawei",
+      "model": "Mate X6"
+    }
+  },
+  "Infinix Hot 50 Pro+ 4G review": {
+    "spec_url": "https://www.gsmarena.com/infinix_hot_50_pro+_4g-13408.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Hot 50 Pro 4G/main.jpg",
+      "images/Infinix Hot 50 Pro 4G/angle_2.jpg",
+      "images/Infinix Hot 50 Pro 4G/angle_3.jpg",
+      "images/Infinix Hot 50 Pro 4G/angle_4.jpg",
+      "images/Infinix Hot 50 Pro 4G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Hot 50 Pro 4G",
+      "display_name": "Infinix Hot 50 Pro 4G",
+      "brand": "Infinix",
+      "model": "Hot 50 Pro 4G"
+    }
+  },
+  "Infinix Zero Flip review": {
+    "spec_url": "https://www.gsmarena.com/infinix_zero_flip-13347.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Zero Flip/main.jpg",
+      "images/Infinix Zero Flip/angle_2.jpg",
+      "images/Infinix Zero Flip/angle_3.jpg",
+      "images/Infinix Zero Flip/angle_4.jpg",
+      "images/Infinix Zero Flip/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Zero Flip",
+      "display_name": "Infinix Zero Flip",
+      "brand": "Infinix",
+      "model": "Zero Flip"
+    }
+  },
+  "Ulefone Armor Mini 20T Pro review": {
+    "spec_url": "https://www.gsmarena.com/ulefone_armor_mini_20t_pro-13298.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Ulefone Armor Mini 20T Pro/main.jpg",
+      "images/Ulefone Armor Mini 20T Pro/angle_2.jpg",
+      "images/Ulefone Armor Mini 20T Pro/angle_3.jpg",
+      "images/Ulefone Armor Mini 20T Pro/angle_4.jpg",
+      "images/Ulefone Armor Mini 20T Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Ulefone Armor Mini 20T Pro",
+      "display_name": "Ulefone Armor Mini 20T Pro",
+      "brand": "Ulefone",
+      "model": "Armor Mini 20T Pro"
+    }
+  },
+  "Tecno Phantom V Fold2 review": {
+    "spec_url": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Tecno Phantom V Fold2/main.jpg",
+      "images/Tecno Phantom V Fold2/angle_2.jpg",
+      "images/Tecno Phantom V Fold2/angle_3.jpg",
+      "images/Tecno Phantom V Fold2/angle_4.jpg",
+      "images/Tecno Phantom V Fold2/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Tecno Phantom V Fold2",
+      "display_name": "Tecno Phantom V Fold2",
+      "brand": "Tecno",
+      "model": "Phantom V Fold2"
+    }
+  },
+  "Xiaomi Redmi Note 14 Pro+ hands-on review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro+-13364.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi Note 14 Pro/main.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_2.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_3.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_4.jpg",
+      "images/Xiaomi Redmi Note 14 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi Note 14 Pro",
+      "display_name": "Xiaomi Redmi Note 14 Pro",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 14 Pro"
+    }
+  },
+  "Tecno Phantom V Flip2 review": {
+    "spec_url": "https://www.gsmarena.com/tecno_phantom_v_flip2-13335.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Tecno Phantom V Flip2/main.jpg",
+      "images/Tecno Phantom V Flip2/angle_2.jpg",
+      "images/Tecno Phantom V Flip2/angle_3.jpg",
+      "images/Tecno Phantom V Flip2/angle_4.jpg",
+      "images/Tecno Phantom V Flip2/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Tecno Phantom V Flip2",
+      "display_name": "Tecno Phantom V Flip2",
+      "brand": "Tecno",
+      "model": "Phantom V Flip2"
+    }
+  },
+  "nubia Red Magic 10 Pro review": {
+    "spec_url": "https://www.gsmarena.com/zte_nubia_red_magic_10_pro-13496.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/nubia Red Magic 10 Pro/main.jpg",
+      "images/nubia Red Magic 10 Pro/angle_2.jpg",
+      "images/nubia Red Magic 10 Pro/angle_3.jpg",
+      "images/nubia Red Magic 10 Pro/angle_4.jpg",
+      "images/nubia Red Magic 10 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "nubia Red Magic 10 Pro",
+      "display_name": "nubia Red Magic 10 Pro",
+      "brand": "nubia",
+      "model": "Red Magic 10 Pro"
+    }
+  },
+  "Samsung Galaxy A16 4G review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a16-13383.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A16 4G/main.jpg",
+      "images/Samsung Galaxy A16 4G/angle_2.jpg",
+      "images/Samsung Galaxy A16 4G/angle_3.jpg",
+      "images/Samsung Galaxy A16 4G/angle_4.jpg",
+      "images/Samsung Galaxy A16 4G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A16 4G",
+      "display_name": "Samsung Galaxy A16 4G",
+      "brand": "Samsung",
+      "model": "Galaxy A16 4G"
+    }
+  },
+  "iQOO 13 review": {
+    "spec_url": "https://www.gsmarena.com/vivo_iqoo_13-13462.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/iQOO 13/main.jpg",
+      "images/iQOO 13/angle_2.jpg",
+      "images/iQOO 13/angle_3.jpg",
+      "images/iQOO 13/angle_4.jpg",
+      "images/iQOO 13/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "iQOO 13",
+      "display_name": "iQOO 13",
+      "brand": "iQOO",
+      "model": "13"
+    }
+  },
+  "nubia Z70 Ultra review": {
+    "spec_url": "https://www.gsmarena.com/zte_nubia_z70_ultra-13508.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/nubia Z70 Ultra/main.jpg",
+      "images/nubia Z70 Ultra/angle_2.jpg",
+      "images/nubia Z70 Ultra/angle_3.jpg",
+      "images/nubia Z70 Ultra/angle_4.jpg",
+      "images/nubia Z70 Ultra/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "nubia Z70 Ultra",
+      "display_name": "nubia Z70 Ultra",
+      "brand": "nubia",
+      "model": "Z70 Ultra"
+    }
+  },
+  "Oppo Find X8 review": {
+    "spec_url": "https://www.gsmarena.com/oppo_find_x8-13407.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Oppo Find X8/main.jpg",
+      "images/Oppo Find X8/angle_2.jpg",
+      "images/Oppo Find X8/angle_3.jpg",
+      "images/Oppo Find X8/angle_4.jpg",
+      "images/Oppo Find X8/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Oppo Find X8",
+      "display_name": "Oppo Find X8",
+      "brand": "Oppo",
+      "model": "Find X8"
+    }
+  },
+  "Oppo Find X8 Pro review": {
+    "spec_url": "https://www.gsmarena.com/oppo_find_x8_pro-13467.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Oppo Find X8 Pro/main.jpg",
+      "images/Oppo Find X8 Pro/angle_2.jpg",
+      "images/Oppo Find X8 Pro/angle_3.jpg",
+      "images/Oppo Find X8 Pro/angle_4.jpg",
+      "images/Oppo Find X8 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Oppo Find X8 Pro",
+      "display_name": "Oppo Find X8 Pro",
+      "brand": "Oppo",
+      "model": "Find X8 Pro"
+    }
+  },
+  "Asus ROG Phone 9/9 Pro review": {
+    "spec_url": "https://www.gsmarena.com/asus_rog_phone_9_pro-13469.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Asus ROG Phone 99 Pro/main.jpg",
+      "images/Asus ROG Phone 99 Pro/angle_2.jpg",
+      "images/Asus ROG Phone 99 Pro/angle_3.jpg",
+      "images/Asus ROG Phone 99 Pro/angle_4.jpg",
+      "images/Asus ROG Phone 99 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Asus ROG Phone 99 Pro",
+      "display_name": "Asus ROG Phone 99 Pro",
+      "brand": "Asus",
+      "model": "ROG Phone 99 Pro"
+    }
+  },
+  "Realme GT 7 Pro review": {
+    "spec_url": "https://www.gsmarena.com/realme_gt_7_pro-13470.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Realme GT 7 Pro/main.jpg",
+      "images/Realme GT 7 Pro/angle_2.jpg",
+      "images/Realme GT 7 Pro/angle_3.jpg",
+      "images/Realme GT 7 Pro/angle_4.jpg",
+      "images/Realme GT 7 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Realme GT 7 Pro",
+      "display_name": "Realme GT 7 Pro",
+      "brand": "Realme",
+      "model": "GT 7 Pro"
+    }
+  },
+  "Motorola Edge 50 review": {
+    "spec_url": "https://www.gsmarena.com/motorola_edge_50-13231.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Edge 50/main.jpg",
+      "images/Motorola Edge 50/angle_2.jpg",
+      "images/Motorola Edge 50/angle_3.jpg",
+      "images/Motorola Edge 50/angle_4.jpg",
+      "images/Motorola Edge 50/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Edge 50",
+      "display_name": "Motorola Edge 50",
+      "brand": "Motorola",
+      "model": "Edge 50"
+    }
+  },
+  "Honor MagicPad 2 review": {
+    "spec_url": "https://www.gsmarena.com/honor_magicpad_2_12_3-13205.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Honor MagicPad 2/main.jpg",
+      "images/Honor MagicPad 2/angle_2.jpg",
+      "images/Honor MagicPad 2/angle_3.jpg",
+      "images/Honor MagicPad 2/angle_4.jpg",
+      "images/Honor MagicPad 2/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Honor MagicPad 2",
+      "display_name": "Honor MagicPad 2",
+      "brand": "Honor",
+      "model": "MagicPad 2"
+    }
+  },
+  "nubia Red Magic Nova review": {
+    "spec_url": "https://www.gsmarena.com/zte_nubia_red_magic_nova-13303.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/nubia Red Magic Nova/main.jpg",
+      "images/nubia Red Magic Nova/angle_2.jpg",
+      "images/nubia Red Magic Nova/angle_3.jpg",
+      "images/nubia Red Magic Nova/angle_4.jpg",
+      "images/nubia Red Magic Nova/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "nubia Red Magic Nova",
+      "display_name": "nubia Red Magic Nova",
+      "brand": "nubia",
+      "model": "Red Magic Nova"
+    }
+  },
+  "Infinix Zero 40 5G hands-on review": {
+    "spec_url": "https://www.gsmarena.com/infinix_zero_40-13290.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Infinix Zero 40 5G/main.jpg",
+      "images/Infinix Zero 40 5G/angle_2.jpg",
+      "images/Infinix Zero 40 5G/angle_3.jpg",
+      "images/Infinix Zero 40 5G/angle_4.jpg",
+      "images/Infinix Zero 40 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Infinix Zero 40 5G",
+      "display_name": "Infinix Zero 40 5G",
+      "brand": "Infinix",
+      "model": "Zero 40 5G"
+    }
+  },
+  "Samsung Galaxy A16 5G review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy A16 5G/main.jpg",
+      "images/Samsung Galaxy A16 5G/angle_2.jpg",
+      "images/Samsung Galaxy A16 5G/angle_3.jpg",
+      "images/Samsung Galaxy A16 5G/angle_4.jpg",
+      "images/Samsung Galaxy A16 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy A16 5G",
+      "display_name": "Samsung Galaxy A16 5G",
+      "brand": "Samsung",
+      "model": "Galaxy A16 5G"
+    }
+  },
+  "vivo V40 Pro review": {
+    "spec_url": "https://www.gsmarena.com/vivo_v40_pro-13239.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo V40 Pro/main.jpg",
+      "images/vivo V40 Pro/angle_2.jpg",
+      "images/vivo V40 Pro/angle_3.jpg",
+      "images/vivo V40 Pro/angle_4.jpg",
+      "images/vivo V40 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo V40 Pro",
+      "display_name": "vivo V40 Pro",
+      "brand": "vivo",
+      "model": "V40 Pro"
+    }
+  },
+  "Motorola Edge 50 Neo review": {
+    "spec_url": "https://www.gsmarena.com/motorola_edge_50_neo-13224.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Motorola Edge 50 Neo/main.jpg",
+      "images/Motorola Edge 50 Neo/angle_2.jpg",
+      "images/Motorola Edge 50 Neo/angle_3.jpg",
+      "images/Motorola Edge 50 Neo/angle_4.jpg",
+      "images/Motorola Edge 50 Neo/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Motorola Edge 50 Neo",
+      "display_name": "Motorola Edge 50 Neo",
+      "brand": "Motorola",
+      "model": "Edge 50 Neo"
+    }
+  },
+  "vivo X200 Pro hands-on review": {
+    "spec_url": "https://www.gsmarena.com/vivo_x200_pro-13410.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo X200 Pro/main.jpg",
+      "images/vivo X200 Pro/angle_2.jpg",
+      "images/vivo X200 Pro/angle_3.jpg",
+      "images/vivo X200 Pro/angle_4.jpg",
+      "images/vivo X200 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo X200 Pro",
+      "display_name": "vivo X200 Pro",
+      "brand": "vivo",
+      "model": "X200 Pro"
+    }
+  },
+  "Samsung Galaxy S24 FE review": {
+    "spec_url": "https://www.gsmarena.com/samsung_galaxy_s24_fe-13262.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Samsung Galaxy S24 FE/main.jpg",
+      "images/Samsung Galaxy S24 FE/angle_2.jpg",
+      "images/Samsung Galaxy S24 FE/angle_3.jpg",
+      "images/Samsung Galaxy S24 FE/angle_4.jpg",
+      "images/Samsung Galaxy S24 FE/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Samsung Galaxy S24 FE",
+      "display_name": "Samsung Galaxy S24 FE",
+      "brand": "Samsung",
+      "model": "Galaxy S24 FE"
+    }
+  },
+  "vivo V40 review": {
+    "spec_url": "https://www.gsmarena.com/vivo_v40-13121.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/vivo V40/main.jpg",
+      "images/vivo V40/angle_2.jpg",
+      "images/vivo V40/angle_3.jpg",
+      "images/vivo V40/angle_4.jpg",
+      "images/vivo V40/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "vivo V40",
+      "display_name": "vivo V40",
+      "brand": "vivo",
+      "model": "V40"
+    }
+  },
+  "Xiaomi Redmi 13 5G hands-on review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_redmi_13_5g-13157.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi Redmi 13 5G/main.jpg",
+      "images/Xiaomi Redmi 13 5G/angle_2.jpg",
+      "images/Xiaomi Redmi 13 5G/angle_3.jpg",
+      "images/Xiaomi Redmi 13 5G/angle_4.jpg",
+      "images/Xiaomi Redmi 13 5G/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi Redmi 13 5G",
+      "display_name": "Xiaomi Redmi 13 5G",
+      "brand": "Xiaomi",
+      "model": "Redmi 13 5G"
+    }
+  },
+  "Apple iPhone 16 Pro review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_16_pro-13315.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 16 Pro/main.jpg",
+      "images/Apple iPhone 16 Pro/angle_2.jpg",
+      "images/Apple iPhone 16 Pro/angle_3.jpg",
+      "images/Apple iPhone 16 Pro/angle_4.jpg",
+      "images/Apple iPhone 16 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 16 Pro",
+      "display_name": "Apple iPhone 16 Pro",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro"
+    }
+  },
+  "Apple iPhone 16 Plus review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 16 Plus/main.jpg",
+      "images/Apple iPhone 16 Plus/angle_2.jpg",
+      "images/Apple iPhone 16 Plus/angle_3.jpg",
+      "images/Apple iPhone 16 Plus/angle_4.jpg",
+      "images/Apple iPhone 16 Plus/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 16 Plus",
+      "display_name": "Apple iPhone 16 Plus",
+      "brand": "Apple",
+      "model": "iPhone 16 Plus"
+    }
+  },
+  "Apple iPhone 16 Pro Max review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 16 Pro Max/main.jpg",
+      "images/Apple iPhone 16 Pro Max/angle_2.jpg",
+      "images/Apple iPhone 16 Pro Max/angle_3.jpg",
+      "images/Apple iPhone 16 Pro Max/angle_4.jpg",
+      "images/Apple iPhone 16 Pro Max/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 16 Pro Max",
+      "display_name": "Apple iPhone 16 Pro Max",
+      "brand": "Apple",
+      "model": "iPhone 16 Pro Max"
+    }
+  },
+  "Xiaomi 14T review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_14t-13329.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi 14T/main.jpg",
+      "images/Xiaomi 14T/angle_2.jpg",
+      "images/Xiaomi 14T/angle_3.jpg",
+      "images/Xiaomi 14T/angle_4.jpg",
+      "images/Xiaomi 14T/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 14T",
+      "display_name": "Xiaomi 14T",
+      "brand": "Xiaomi",
+      "model": "14T"
+    }
+  },
+  "Apple iPhone 16 review": {
+    "spec_url": "https://www.gsmarena.com/apple_iphone_16-13317.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Apple iPhone 16/main.jpg",
+      "images/Apple iPhone 16/angle_2.jpg",
+      "images/Apple iPhone 16/angle_3.jpg",
+      "images/Apple iPhone 16/angle_4.jpg",
+      "images/Apple iPhone 16/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Apple iPhone 16",
+      "display_name": "Apple iPhone 16",
+      "brand": "Apple",
+      "model": "iPhone 16"
+    }
+  },
+  "Xiaomi 14T Pro review": {
+    "spec_url": "https://www.gsmarena.com/xiaomi_14t_pro-13328.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Xiaomi 14T Pro/main.jpg",
+      "images/Xiaomi 14T Pro/angle_2.jpg",
+      "images/Xiaomi 14T Pro/angle_3.jpg",
+      "images/Xiaomi 14T Pro/angle_4.jpg",
+      "images/Xiaomi 14T Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Xiaomi 14T Pro",
+      "display_name": "Xiaomi 14T Pro",
+      "brand": "Xiaomi",
+      "model": "14T Pro"
+    }
+  },
+  "Google Pixel 9 Pro review": {
+    "spec_url": "https://www.gsmarena.com/google_pixel_9_pro-13218.php",
+    "image_count": 5,
+    "image_paths": [
+      "images/Google Pixel 9 Pro/main.jpg",
+      "images/Google Pixel 9 Pro/angle_2.jpg",
+      "images/Google Pixel 9 Pro/angle_3.jpg",
+      "images/Google Pixel 9 Pro/angle_4.jpg",
+      "images/Google Pixel 9 Pro/angle_5.jpg"
+    ],
+    "clean_info": {
+      "safe_name": "Google Pixel 9 Pro",
+      "display_name": "Google Pixel 9 Pro",
+      "brand": "Google",
+      "model": "Pixel 9 Pro"
+    }
   }
 }
