@@ -2,18 +2,23 @@ name: Scrape GSMArena Data
 
 on:
   schedule:
-    # Run every day at 2 AM UTC
-    - cron: "0 2 * * *"
-  workflow_dispatch: # Allow manual triggering
+    # Run weekly on Monday at 3 AM UTC
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
     inputs:
-      max_phones:
-        description: "Maximum number of phones to scrape (leave empty for all)"
+      force_scrape:
+        description: "Force scrape even if no new phones"
         required: false
-        default: ""
-      max_images:
-        description: "Maximum images per phone"
+        type: boolean
+        default: false
+      max_pages:
+        description: "Max pages to scrape for reviews"
         required: false
         default: "5"
+      max_phones:
+        description: "Max phones to process (empty = all new phones)"
+        required: false
+        default: ""
 
 jobs:
   scrape:
@@ -35,70 +40,123 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml
 
-      - name: Check for existing data
-        id: check_data
+      - name: Scrape new reviews
+        id: scrape_reviews
         run: |
+          # Update max pages if provided
+          MAX_PAGES="${{ github.event.inputs.max_pages || '5' }}"
+          sed -i "s/MAX_PAGES = 5/MAX_PAGES = $MAX_PAGES/" phone_review_url_scraper.py
+
+          # Run review scraper
+          python phone_review_url_scraper.py
+
+          # Check if new reviews were found
           if [ -f "gsmarena_reviews.csv" ]; then
-            echo "reviews_exist=true" >> $GITHUB_OUTPUT
+            # Count lines (excluding header)
+            NEW_COUNT=$(wc -l < gsmarena_reviews.csv)
+            NEW_COUNT=$((NEW_COUNT - 1))
+            
+            # Get old count if file exists in repo
+            OLD_COUNT=0
+            if git show HEAD:gsmarena_reviews.csv &> /dev/null; then
+              OLD_COUNT=$(git show HEAD:gsmarena_reviews.csv | wc -l)
+              OLD_COUNT=$((OLD_COUNT - 1))
+            fi
+            
+            DIFF=$((NEW_COUNT - OLD_COUNT))
+            
+            echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
+            echo "old_count=$OLD_COUNT" >> $GITHUB_OUTPUT
+            echo "diff=$DIFF" >> $GITHUB_OUTPUT
+            
+            if [ $DIFF -gt 0 ]; then
+              echo "has_new_phones=true" >> $GITHUB_OUTPUT
+              echo "✓ Found $DIFF new phones!"
+            else
+              echo "has_new_phones=false" >> $GITHUB_OUTPUT
+              echo "ℹ No new phones found"
+            fi
           else
-            echo "reviews_exist=false" >> $GITHUB_OUTPUT
+            echo "has_new_phones=false" >> $GITHUB_OUTPUT
+            echo "✗ Failed to scrape reviews"
+            exit 1
           fi
+        continue-on-error: false
 
-          if [ -f "gsmarena_specifications.csv" ]; then
-            echo "specs_exist=true" >> $GITHUB_OUTPUT
-          else
-            echo "specs_exist=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Run specifications scraper
-        if: steps.check_data.outputs.reviews_exist == 'true'
+      - name: Check if should continue
+        id: should_continue
         run: |
-          MAX_PHONES="${{ github.event.inputs.max_phones }}"
-          if [ -z "$MAX_PHONES" ]; then
-            python phone_specs_scraper.py
+          FORCE="${{ github.event.inputs.force_scrape || 'false' }}"
+          HAS_NEW="${{ steps.scrape_reviews.outputs.has_new_phones }}"
+
+          if [ "$FORCE" = "true" ] || [ "$HAS_NEW" = "true" ]; then
+            echo "continue=true" >> $GITHUB_OUTPUT
+            echo "✓ Proceeding with specs and image scraping"
           else
-            # Modify the script to use the input parameter
-            sed -i "s/MAX_PHONES = 5/MAX_PHONES = $MAX_PHONES/" phone_specs_scraper.py
-            python phone_specs_scraper.py
+            echo "continue=false" >> $GITHUB_OUTPUT
+            echo "ℹ Skipping specs/images - no new phones and not forced"
           fi
+
+      - name: Scrape specifications
+        if: steps.should_continue.outputs.continue == 'true'
+        run: |
+          # Only process new phones unless forced
+          if [ "${{ github.event.inputs.force_scrape }}" = "true" ]; then
+            MAX_PHONES="${{ github.event.inputs.max_phones }}"
+            if [ -n "$MAX_PHONES" ]; then
+              sed -i "s/MAX_PHONES = 5/MAX_PHONES = $MAX_PHONES/" phone_specs_scraper.py
+            else
+              sed -i "s/MAX_PHONES = 5/MAX_PHONES = None/" phone_specs_scraper.py
+            fi
+          else
+            # Process only new phones
+            NEW_PHONE_COUNT="${{ steps.scrape_reviews.outputs.diff }}"
+            sed -i "s/MAX_PHONES = 5/MAX_PHONES = $NEW_PHONE_COUNT/" phone_specs_scraper.py
+          fi
+
+          python phone_specs_scraper.py
         continue-on-error: true
 
-      - name: Run image scraper
-        if: steps.check_data.outputs.specs_exist == 'true' || success()
+      - name: Scrape images
+        if: steps.should_continue.outputs.continue == 'true'
         run: |
-          MAX_IMAGES="${{ github.event.inputs.max_images || '5' }}"
-          sed -i "s/MAX_IMAGES_PER_PHONE = 5/MAX_IMAGES_PER_PHONE = $MAX_IMAGES/" phone_image_scraper.py
+          # Match the same logic as specs
+          if [ "${{ github.event.inputs.force_scrape }}" = "true" ]; then
+            MAX_PHONES="${{ github.event.inputs.max_phones }}"
+            if [ -n "$MAX_PHONES" ]; then
+              sed -i "s/max_phones=5/max_phones=$MAX_PHONES/" phone_image_scraper.py
+            else
+              sed -i "s/max_phones=5/max_phones=None/" phone_image_scraper.py
+            fi
+          else
+            NEW_PHONE_COUNT="${{ steps.scrape_reviews.outputs.diff }}"
+            sed -i "s/max_phones=5/max_phones=$NEW_PHONE_COUNT/" phone_image_scraper.py
+          fi
+
           python phone_image_scraper.py
         continue-on-error: true
 
       - name: Optimize images
-        if: success()
+        if: steps.should_continue.outputs.continue == 'true'
         run: |
-          # Install image optimization tools
           sudo apt-get update
           sudo apt-get install -y jpegoptim optipng
 
-          # Optimize JPG images (reduce quality to 85%, max 1920px width)
-          find images -type f \( -name "*.jpg" -o -name "*.jpeg" \) -exec jpegoptim --max=85 --strip-all {} \;
-
-          # Optimize PNG images
-          find images -type f -name "*.png" -exec optipng -o2 {} \;
+          find images -type f \( -name "*.jpg" -o -name "*.jpeg" \) -exec jpegoptim --max=85 --strip-all {} \; 2>/dev/null || true
+          find images -type f -name "*.png" -exec optipng -o2 {} \; 2>/dev/null || true
         continue-on-error: true
 
-      - name: Generate image manifest with CDN URLs
-        if: success()
+      - name: Generate CDN manifest
+        if: steps.should_continue.outputs.continue == 'true'
         run: |
           python << 'EOF'
           import os
           import json
           from pathlib import Path
 
-          # GitHub repository info (update these)
           GITHUB_USER = "${{ github.repository_owner }}"
           GITHUB_REPO = "${{ github.event.repository.name }}"
           GITHUB_BRANCH = "main"
-
-          # jsDelivr CDN base URL
           CDN_BASE = f"https://cdn.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@{GITHUB_BRANCH}"
 
           manifest = {}
@@ -112,7 +170,6 @@ jobs:
                       
                       for img_file in sorted(phone_dir.iterdir()):
                           if img_file.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp']:
-                              # Create CDN URL
                               relative_path = f"images/{phone_name}/{img_file.name}"
                               cdn_url = f"{CDN_BASE}/{relative_path}"
                               
@@ -131,13 +188,9 @@ jobs:
                               "cdn_base": f"{CDN_BASE}/images/{phone_name}"
                           }
 
-          # Save manifest
           with open("cdn_image_manifest.json", "w", encoding="utf-8") as f:
               json.dump(manifest, f, indent=2, ensure_ascii=False)
 
-          print(f"Generated CDN manifest for {len(manifest)} phones")
-
-          # Also create a simple index for quick lookups
           index = {
               "generated_at": "${{ github.run_id }}",
               "cdn_base": CDN_BASE,
@@ -149,8 +202,7 @@ jobs:
           with open("cdn_index.json", "w", encoding="utf-8") as f:
               json.dump(index, f, indent=2)
 
-          print(f"Total phones: {index['total_phones']}")
-          print(f"Total images: {index['total_images']}")
+          print(f"Generated manifest for {index['total_phones']} phones, {index['total_images']} images")
           EOF
 
       - name: Commit and push changes
@@ -158,43 +210,49 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          # Add all files
+          # Add all changes
+          git add gsmarena_reviews.csv gsmarena_reviews.json 2>/dev/null || true
           git add gsmarena_specifications.json gsmarena_specifications.csv 2>/dev/null || true
           git add image_manifest.json cdn_image_manifest.json cdn_index.json 2>/dev/null || true
           git add images/ 2>/dev/null || true
 
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "ℹ No changes to commit"
           else
-            git commit -m "Auto-update: Scrape data and images [skip ci]"
+            COMMIT_MSG="Auto-update: "
+            if [ "${{ steps.scrape_reviews.outputs.has_new_phones }}" = "true" ]; then
+              COMMIT_MSG="${COMMIT_MSG}Added ${{ steps.scrape_reviews.outputs.diff }} new phones [skip ci]"
+            else
+              COMMIT_MSG="${COMMIT_MSG}Updated data [skip ci]"
+            fi
+            
+            git commit -m "$COMMIT_MSG"
             git push
-            echo "Changes pushed successfully"
+            echo "✓ Changes pushed successfully"
           fi
 
-      - name: Create release summary
-        if: success()
+      - name: Create summary
+        if: always()
         run: |
           echo "## Scraping Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
 
-          if [ -f "cdn_index.json" ]; then
-            echo "### Statistics" >> $GITHUB_STEP_SUMMARY
-            python << 'EOF' >> $GITHUB_STEP_SUMMARY
-          import json
+          echo "### Review Scraping" >> $GITHUB_STEP_SUMMARY
+          echo "- **Previous phones:** ${{ steps.scrape_reviews.outputs.old_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Current phones:** ${{ steps.scrape_reviews.outputs.new_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **New phones found:** ${{ steps.scrape_reviews.outputs.diff }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
 
-          with open("cdn_index.json") as f:
-              data = json.load(f)
-
-          print(f"- **Total Phones:** {data['total_phones']}")
-          print(f"- **Total Images:** {data['total_images']}")
-          print(f"- **CDN Base URL:** `{data['cdn_base']}`")
-          EOF
+          if [ "${{ steps.should_continue.outputs.continue }}" = "true" ]; then
+            echo "### Processing" >> $GITHUB_STEP_SUMMARY
+            echo "✓ Scraped specifications and images for new phones" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### Processing" >> $GITHUB_STEP_SUMMARY
+            echo "ℹ Skipped - No new phones to process" >> $GITHUB_STEP_SUMMARY
           fi
 
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Access Your Data" >> $GITHUB_STEP_SUMMARY
-          echo "Images are now available via jsDelivr CDN:" >> $GITHUB_STEP_SUMMARY
+          echo "### CDN Access" >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
-          echo "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/images/" >> $GITHUB_STEP_SUMMARY
+          echo "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/" >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
