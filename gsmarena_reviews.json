@@ -1,5 +1,11 @@
 [
   {
+    "phone_name": "Xiaomi 17 Pro Max review",
+    "review_url": "https://www.gsmarena.com/xiaomi_17_pro_max-review-2895.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-17-pro-max/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Oppo Find X9 Pro review",
     "review_url": "https://www.gsmarena.com/oppo_find_x9_pro-review-2894.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oppo-find-x9-pro/-347x151/gsmarena_001.jpg",
@@ -12,15 +18,15 @@
     "image_alt": ""
   },
   {
-    "phone_name": "Xiaomi 17 Pro Max hands-on review",
-    "review_url": "https://www.gsmarena.com/xiaomi_17_pro_hands_on-review-2893.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-17-pro-max-handson/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
     "phone_name": "vivo X300 & X300 Pro hands-on review",
     "review_url": "https://www.gsmarena.com/vivo_x300_and_x300_pro_hands_on-review-2892.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x300-and-x300-pro/-347x151/gsmarena_032.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Xiaomi 17 Pro Max hands-on review",
+    "review_url": "https://www.gsmarena.com/xiaomi_17_pro_hands_on-review-2893.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-17-pro-max-handson/-347x151/gsmarena_000.jpg",
     "image_alt": ""
   },
   {
@@ -891,12 +897,6 @@
     "phone_name": "Xiaomi 14T Pro review",
     "review_url": "https://www.gsmarena.com/xiaomi_14t_pro-review-2746.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/xiaomi-14t-pro/rev26/-347x151/gsmarena_003.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Google Pixel 9 Pro review",
-    "review_url": "https://www.gsmarena.com/google_pixel_9_pro-review-2745.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/google-pixel-9-pro/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
