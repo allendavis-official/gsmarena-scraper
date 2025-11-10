@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "vivo X300 review",
+    "review_url": "https://www.gsmarena.com/vivo_x300-review-2897.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x300/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "vivo X300 Pro review",
+    "review_url": "https://www.gsmarena.com/vivo_x300_pro-review-2896.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x300-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Xiaomi 17 Pro Max review",
     "review_url": "https://www.gsmarena.com/xiaomi_17_pro_max-review-2895.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-17-pro-max/-347x151/gsmarena_000.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Xiaomi 14T review",
     "review_url": "https://www.gsmarena.com/xiaomi_14t-review-2748.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/xiaomi-14t/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Apple iPhone 16 review",
-    "review_url": "https://www.gsmarena.com/apple_iphone_16-review-2749.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/apple-iphone-16/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi 14T Pro review",
-    "review_url": "https://www.gsmarena.com/xiaomi_14t_pro-review-2746.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/xiaomi-14t-pro/rev26/-347x151/gsmarena_003.jpg",
     "image_alt": ""
   }
 ]
