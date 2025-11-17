@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Honor Magic8 Pro hands-on review",
+    "review_url": "https://www.gsmarena.com/honor_magic8_pro_hands_on-review-2900.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-magic-8-pro-hands-on/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "OnePlus 15 review",
+    "review_url": "https://www.gsmarena.com/oneplus_15-review-2898.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-15/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "nubia Z80 Ultra review",
+    "review_url": "https://www.gsmarena.com/nubia_z80_ultra-review-2901.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nubia-z80-ultra/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "vivo X300 review",
     "review_url": "https://www.gsmarena.com/vivo_x300-review-2897.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x300/-347x151/gsmarena_002.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Apple iPhone 16 Pro review",
     "review_url": "https://www.gsmarena.com/apple_iphone_16_pro-review-2752.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/apple-iphone-16-pro/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Apple iPhone 16 Plus review",
-    "review_url": "https://www.gsmarena.com/apple_iphone_16_plus-review-2751.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/iphone-16-plus/-347x151/gsmarena_0000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Apple iPhone 16 Pro Max review",
-    "review_url": "https://www.gsmarena.com/apple_iphone_16_pro_max-review-2750.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/apple-iphone-16-pro-max/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi 14T review",
-    "review_url": "https://www.gsmarena.com/xiaomi_14t-review-2748.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/xiaomi-14t/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
