@@ -1,5 +1,29 @@
 [
   {
+    "phone_name": "Poco F8 Pro review",
+    "review_url": "https://www.gsmarena.com/poco_f8_pro-review-2907.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-f8-pro/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Poco F8 Ultra review",
+    "review_url": "https://www.gsmarena.com/poco_f8_ultra-review-2906.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-f8-ultra/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "iQOO 15 review",
+    "review_url": "https://www.gsmarena.com/iqoo_15-review-2905.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/iqoo-15/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Motorola Edge 70 review",
+    "review_url": "https://www.gsmarena.com/motorola_edge_70-review-2899.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-edge-70/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Realme GT 8 Pro review",
     "review_url": "https://www.gsmarena.com/realme_gt_8_pro-review-2903.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/realme-gt-8-pro/-347x151/gsmarena_001.jpg",
@@ -873,30 +897,6 @@
     "phone_name": "vivo V40 Pro review",
     "review_url": "https://www.gsmarena.com/vivo_v40_pro-review-2757.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/vivo-v40-pro/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Motorola Edge 50 Neo review",
-    "review_url": "https://www.gsmarena.com/motorola_edge_50_neo-review-2754.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/motorola-edge-50-neo/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo X200 Pro hands-on review",
-    "review_url": "https://www.gsmarena.com/vivo_x200_pro_handson-review-2756.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/vivo-x200-pro-handson/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy S24 FE review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_s24_fe-review-2755.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-s24-fe/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo V40 review",
-    "review_url": "https://www.gsmarena.com/vivo_v40-review-2753.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/vivo-v40/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
