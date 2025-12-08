@@ -1,5 +1,11 @@
 [
   {
+    "phone_name": "Nothing Phone (3a) Lite review",
+    "review_url": "https://www.gsmarena.com/nothing_phone_3a_lite-review-2904.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-lite/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Poco F8 Pro review",
     "review_url": "https://www.gsmarena.com/poco_f8_pro-review-2907.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-f8-pro/-347x151/gsmarena_000.jpg",
@@ -891,12 +897,6 @@
     "phone_name": "Samsung Galaxy A16 5G review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_a16_5g-review-2758.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-a16-5g/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo V40 Pro review",
-    "review_url": "https://www.gsmarena.com/vivo_v40_pro-review-2757.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/vivo-v40-pro/-347x151/gsmarena_000.jpg",
     "image_alt": ""
   }
 ]
