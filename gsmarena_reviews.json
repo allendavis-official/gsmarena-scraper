@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Huawei Mate X7 hands-on review",
+    "review_url": "https://www.gsmarena.com/huawei_mate_x7_handson-review-2910.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/huawei-mate-x7-handson/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Honor Magic8 Lite review",
+    "review_url": "https://www.gsmarena.com/honor_magic8_lite-review-2908.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-magic8-lite/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Nothing Phone (3a) Lite review",
     "review_url": "https://www.gsmarena.com/nothing_phone_3a_lite-review-2904.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-lite/-347x151/gsmarena_002.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "RedMagic Nova review",
     "review_url": "https://www.gsmarena.com/nubia_red_magic_nova-review-2761.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/nubia-red-magic-nova/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Infinix Zero 40 5G hands-on review",
-    "review_url": "https://www.gsmarena.com/infinix_zero_40_5g-review-2760.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/infinix-zero-40-5g/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy A16 5G review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_a16_5g-review-2758.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-a16-5g/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
