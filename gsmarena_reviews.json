@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Oppo Reno15 Pro (mini) review",
+    "review_url": "https://www.gsmarena.com/oppo_reno15_pro_mini-review-2920.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-reno15-pro-mini/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Realme 16 Pro+ review",
+    "review_url": "https://www.gsmarena.com/realme_16_pro_plus-review-2919.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/realme-16-pro-plus/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Honor Magic8 Pro review",
     "review_url": "https://www.gsmarena.com/honor_magic8_pro-review-2909.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/honor-magic8-pro/-347x151/gsmarena_004.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "RedMagic 10 Pro review",
     "review_url": "https://www.gsmarena.com/nubia_red_magic_10_pro-review-2771.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/nubia-red-magic-10-pro/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy A16 4G review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_a16_4g-review-2770.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-a16-4g/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "iQOO 13 review",
-    "review_url": "https://www.gsmarena.com/iqoo_13-review-2768.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/iqoo-13/-347x151/gsmarena_000.jpg",
     "image_alt": ""
   }
 ]
