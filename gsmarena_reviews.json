@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Xiaomi 17 Ultra Leica Edition review",
+    "review_url": "https://www.gsmarena.com/xiaomi_17_ultra_leica_edition-review-2922.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-17-ultra/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Moto G Power (2026) review",
+    "review_url": "https://www.gsmarena.com/motorola_moto_g_power_2026-review-2921.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-moto-g-power-2026/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Oppo Reno15 Pro (mini) review",
     "review_url": "https://www.gsmarena.com/oppo_reno15_pro_mini-review-2920.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-reno15-pro-mini/-347x151/gsmarena_002.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Xiaomi Redmi Note 14 Pro+ hands-on review",
     "review_url": "https://www.gsmarena.com/redmi_note_14_pro_plus_hands_on-review-2776.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/xiaomi-redmi-note-14-pro-plus-hands-on/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Tecno Phantom V Flip2 review",
-    "review_url": "https://www.gsmarena.com/tecno_phantom_v_flip2-review-2773.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/tecno-phantom-v-flip2/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "RedMagic 10 Pro review",
-    "review_url": "https://www.gsmarena.com/nubia_red_magic_10_pro-review-2771.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/nubia-red-magic-10-pro/-347x151/gsmarena_000.jpg",
     "image_alt": ""
   }
 ]
