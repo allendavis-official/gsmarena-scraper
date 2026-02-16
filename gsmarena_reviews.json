@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Realme P4 Power review",
+    "review_url": "https://www.gsmarena.com/realme_p4_power-review-2930.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/realme-p4-power/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Moto G & G Play (2026) review",
+    "review_url": "https://www.gsmarena.com/motorola_moto_g_2026_g_play_2026-review-2925.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-moto-g-2026/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Infinix Note Edge review",
+    "review_url": "https://www.gsmarena.com/infinix_note_edge-review-2929.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-note-edge/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "OnePlus Pad Go 2 review",
     "review_url": "https://www.gsmarena.com/oneplus_pad_go_2-review-2931.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oneplus-pad-go-2/-347x151/gsmarena_001.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "OnePlus 13 review",
     "review_url": "https://www.gsmarena.com/oneplus_13-review-2777.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-13/rev07/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "The best-sounding smartphones and tablets of 2024",
-    "review_url": "https://www.gsmarena.com/best_sounding_smartphones_and_tablets_2024-review-2779.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/best-smartphone-speakers-2024/-347x151/gsmarena_204.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Poco C75 5G hands-on review",
-    "review_url": "https://www.gsmarena.com/poco_c75_5g_hands_on-review-2782.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/poco-c75-5g/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Huawei Mate X6 review",
-    "review_url": "https://www.gsmarena.com/huawei_mate_x6-review-2781.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/huawei-mate-x6/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
