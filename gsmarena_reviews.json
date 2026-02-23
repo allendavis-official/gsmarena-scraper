@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Poco M8 5G review",
+    "review_url": "https://www.gsmarena.com/poco_m8_5g-review-2928.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/poco-m8/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Poco Pad M1 review",
+    "review_url": "https://www.gsmarena.com/poco_pad_m1-review-2916.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-pad-m1/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Motorola Signature review",
+    "review_url": "https://www.gsmarena.com/motorola_signature-review-2932.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-signature/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Realme P4 Power review",
     "review_url": "https://www.gsmarena.com/realme_p4_power-review-2930.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/realme-p4-power/-347x151/gsmarena_000.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Xiaomi Redmi Note 14 Pro 5G (Global) review",
     "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_5g-review-2784.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-redmi-note-14-pro-5g/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Poco X7 (Global) review",
-    "review_url": "https://www.gsmarena.com/poco_x7-review-2783.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-x7/-347x151/gsmarena_003.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo X200 Pro (Global) review",
-    "review_url": "https://www.gsmarena.com/vivo_x200_pro-review-2759.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/24/vivo-x200-pro/-347x151/gsmarena_102.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "OnePlus 13 review",
-    "review_url": "https://www.gsmarena.com/oneplus_13-review-2777.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-13/rev07/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
