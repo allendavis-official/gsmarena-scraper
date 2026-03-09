@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Samsung Galaxy S26 Ultra review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-review-2939.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-s26-ultra/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Google Pixel 10a hands-on review",
+    "review_url": "https://www.gsmarena.com/pixel_10a_hands_on-review-2940.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/pixel-10a/hands-on/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Tecno Camon 50 Ultra review",
+    "review_url": "https://www.gsmarena.com/tecno_camon_50_ultra-review-2938.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/tecno-camon-50-ultra/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Xiaomi 17 review",
     "review_url": "https://www.gsmarena.com/xiaomi_17-review-2934.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-17/-347x151/gsmarena_000.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Samsung Galaxy S25 Ultra, S25+ and S25 hands-on review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra_s25_plus_s25_handson-review-2789.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25-series-handson/-347x151/gsmarena_0000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi Redmi Note 14 Pro 4G review",
-    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_4g-review-2787.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-redmi-note-14-pro-4g/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi Redmi Note 14 Pro+ (Global) review",
-    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_plus-review-2788.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-redmi-note-14-pro-plus/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Honor Magic7 Pro review",
-    "review_url": "https://www.gsmarena.com/honor_magic7_pro-review-2786.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-magic7-pro/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
