@@ -1,5 +1,29 @@
 [
   {
+    "phone_name": "Google Pixel 10a review",
+    "review_url": "https://www.gsmarena.com/google_pixel_10a-review-2943.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-10a/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Samsung Galaxy S26 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s26-review-2942.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-s26/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Samsung Galaxy S26+ review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s26_plus-review-2941.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-s26-plus/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "vivo V70 review",
+    "review_url": "https://www.gsmarena.com/vivo_v70-review-2936.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-v70/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Samsung Galaxy S26 Ultra review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra-review-2939.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-s26-ultra/-347x151/gsmarena_001.jpg",
@@ -873,30 +897,6 @@
     "phone_name": "Samsung Galaxy S25 Ultra review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-review-2793.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25-ultra/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Realme 14 Pro+ review",
-    "review_url": "https://www.gsmarena.com/realme_14_pro_plus-review-2791.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/realme-14-pro-plus/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi Pad 7 hands-on review",
-    "review_url": "https://www.gsmarena.com/xiaomi_pad_7_handson-review-2792.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-pad-7/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo X200 review",
-    "review_url": "https://www.gsmarena.com/vivo_x200-review-2790.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x200/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy S25 Ultra, S25+ and S25 hands-on review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra_s25_plus_s25_handson-review-2789.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25-series-handson/-347x151/gsmarena_0000.jpg",
     "image_alt": ""
   }
 ]
