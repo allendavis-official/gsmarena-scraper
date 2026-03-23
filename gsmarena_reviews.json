@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Poco X8 Pro review",
+    "review_url": "https://www.gsmarena.com/poco_x8_pro-review-2946.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/poco-x8-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Apple iPhone 17e review",
+    "review_url": "https://www.gsmarena.com/apple_iphone_17e-review-2945.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/apple-iphone-17e/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Poco X8 Pro Max review",
+    "review_url": "https://www.gsmarena.com/poco_x8_pro_max-review-2944.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/poco-x8-pro-max/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Google Pixel 10a review",
     "review_url": "https://www.gsmarena.com/google_pixel_10a-review-2943.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-10a/-347x151/gsmarena_002.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Samsung Galaxy S25+ review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25-plus/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Asus Zenfone 12 Ultra review",
-    "review_url": "https://www.gsmarena.com/asus_zenfone_12_ultra-review-2796.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/asus-zenfone-12-ultra/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy S25 review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_s25-review-2794.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy S25 Ultra review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-review-2793.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-s25-ultra/-347x151/gsmarena_002.jpg",
     "image_alt": ""
   }
 ]
