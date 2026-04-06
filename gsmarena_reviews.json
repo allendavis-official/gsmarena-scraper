@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Nothing Phone (4a) Pro review",
+    "review_url": "https://www.gsmarena.com/nothing_phone_4a_pro-review-2949.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/nothing-phone-4a-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Nothing Phone (4a) review",
+    "review_url": "https://www.gsmarena.com/nothing_phone_4a-review-2948.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/nothing-phone-4a/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Oppo Find N6 review",
     "review_url": "https://www.gsmarena.com/oppo_find_n6-review-2947.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-n6/-347x151/gsmarena_001.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Oppo Find N5 review",
     "review_url": "https://www.gsmarena.com/oppo_find_n5-review-2800.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oppo-find-n5/-347x151/gsmarena_027.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi Redmi Note 14 5G review",
-    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_5g-review-2797.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-redmi-note-14-5g/-347x151/gsmarena_003.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Honor Magic7 RSR Porsche Design review",
-    "review_url": "https://www.gsmarena.com/honor_magic7_rsr_porsche_design-review-2799.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-magic7-rsr/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
