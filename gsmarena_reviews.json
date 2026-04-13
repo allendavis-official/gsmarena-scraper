@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Samsung Galaxy A37 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a37-review-2952.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-a37/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Samsung Galaxy A57 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a57-review-2950.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-a57/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "OnePlus Nord 6 hands-on review",
+    "review_url": "https://www.gsmarena.com/oneplus_nord_6-review-2951.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oneplus-nord-6/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Nothing Phone (4a) Pro review",
     "review_url": "https://www.gsmarena.com/nothing_phone_4a_pro-review-2949.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/nothing-phone-4a-pro/-347x151/gsmarena_001.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Xiaomi 15 Ultra review",
     "review_url": "https://www.gsmarena.com/xiaomi_15_ultra-review-2802.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-15-ultra/rev/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi 15 review",
-    "review_url": "https://www.gsmarena.com/xiaomi_15-review-2803.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-15/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Moto G Power (2025) review",
-    "review_url": "https://www.gsmarena.com/motorola_moto_g_power_2025-review-2801.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-moto-g-power-2025/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Oppo Find N5 review",
-    "review_url": "https://www.gsmarena.com/oppo_find_n5-review-2800.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oppo-find-n5/-347x151/gsmarena_027.jpg",
     "image_alt": ""
   }
 ]
