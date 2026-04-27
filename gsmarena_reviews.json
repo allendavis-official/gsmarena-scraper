@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Infinix Note 60 Ultra review",
+    "review_url": "https://www.gsmarena.com/infinix_note_60_ultra-review-2953.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-note-60-ultra/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Oppo Find X9 Ultra review",
+    "review_url": "https://www.gsmarena.com/oppo_find_x9_ultra-review-2955.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x9-ultra/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "vivo V70 FE review",
     "review_url": "https://www.gsmarena.com/vivo_v70_fe-review-2954.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-v70-fe/-347x151/gsmarena_001.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Apple iPhone 16e review",
     "review_url": "https://www.gsmarena.com/apple_iphone_16e-review-2805.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/apple-iphone-16e/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Nothing Phone (3a) and Phone (3a) Pro hands-on review",
-    "review_url": "https://www.gsmarena.com/nothing_phone_3a_3a_pro_hands_on-review-2806.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-3a-pro-hands-on/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy A36 and A56 hands-on review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_a36_and_a56_hands_on-review-2804.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-glaxy-a36-a56-hands-on/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
