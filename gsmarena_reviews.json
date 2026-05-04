@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "OnePlus Pad 4 hands-on review",
+    "review_url": "https://www.gsmarena.com/oneplus_pad_4_hands_on-review-2958.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oneplus-pad-4/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "vivo X300 Ultra review",
+    "review_url": "https://www.gsmarena.com/vivo_x300_ultra-review-2957.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-x300-ultra/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Moto G Stylus (2026) review",
+    "review_url": "https://www.gsmarena.com/motorola_moto_g_stylus_2026-review-2956.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-moto-g-stylus-2026/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Infinix Note 60 Ultra review",
     "review_url": "https://www.gsmarena.com/infinix_note_60_ultra-review-2953.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-note-60-ultra/-347x151/gsmarena_001.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Nothing Phone (3a) Pro review",
     "review_url": "https://www.gsmarena.com/nothing_phone_3a_pro-review-2809.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-pro/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Huawei Mate XT Ultimate review",
-    "review_url": "https://www.gsmarena.com/huawei_mate_xt_ultimate-review-2808.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/huawei-mate-xt-ultimate/-347x151/gsmarena_003.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Oppo Reno13 review",
-    "review_url": "https://www.gsmarena.com/oppo_reno13-review-2807.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oppo-reno13/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Apple iPhone 16e review",
-    "review_url": "https://www.gsmarena.com/apple_iphone_16e-review-2805.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/apple-iphone-16e/-347x151/gsmarena_002.jpg",
     "image_alt": ""
   }
 ]
