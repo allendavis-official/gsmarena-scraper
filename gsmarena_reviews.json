@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "OnePlus Nord CE6 hands-on  review",
+    "review_url": "https://www.gsmarena.com/oneplus_nord_ce6-review-2961.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oneplus-nord-ce6/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Honor 600 Pro review",
+    "review_url": "https://www.gsmarena.com/honor_600_pro-review-2960.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/honor-600-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "OnePlus Pad 4 hands-on review",
     "review_url": "https://www.gsmarena.com/oneplus_pad_4_hands_on-review-2958.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oneplus-pad-4/-347x151/gsmarena_002.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Nothing Phone (3a) review",
     "review_url": "https://www.gsmarena.com/nothing_phone_3a-review-2811.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy A56 review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_a56-review-2812.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-a56/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Nothing Phone (3a) Pro review",
-    "review_url": "https://www.gsmarena.com/nothing_phone_3a_pro-review-2809.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-pro/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
