@@ -1,5 +1,11 @@
 [
   {
+    "phone_name": "Infinix Note 60 Pro review",
+    "review_url": "https://www.gsmarena.com/infinix_note_60_pro-review-2962.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-note-60-pro/-347x151/gsmarena_002.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Honor 600 review",
     "review_url": "https://www.gsmarena.com/honor_600-review-2964.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/honor-600/-347x151/gsmarena_000.jpg",
@@ -891,12 +897,6 @@
     "phone_name": "Samsung Galaxy A26 review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_a26-review-2816.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-a26/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Poco F7 Pro review",
-    "review_url": "https://www.gsmarena.com/poco_f7_pro-review-2813.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-f7-pro/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
