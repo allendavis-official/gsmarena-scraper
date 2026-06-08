@@ -1,5 +1,11 @@
 [
   {
+    "phone_name": "RedMagic 11S Pro review",
+    "review_url": "https://www.gsmarena.com/nubia_redmagic_11s_pro-review-2969.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/nubia-redmagic-11s-pro/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Xiaomi 17T Pro review",
     "review_url": "https://www.gsmarena.com/xiaomi_17t_pro-review-2965.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-17t-pro/-347x151/gsmarena_000.jpg",
@@ -891,12 +897,6 @@
     "phone_name": "Motorola Edge 60 Fusion review",
     "review_url": "https://www.gsmarena.com/motorola_edge_60_fusion-review-2820.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-edge-60-fusion/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo V50 review",
-    "review_url": "https://www.gsmarena.com/vivo_v50-review-2815.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-v50/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
