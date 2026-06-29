@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Oppo Reno16 Pro review",
+    "review_url": "https://www.gsmarena.com/oppo_reno16_pro-review-2973.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-reno16-pro/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Motorola Razr 70 Ultra/Razr Ultra 2026 review",
+    "review_url": "https://www.gsmarena.com/motorola_razr_70_ultra-review-2972.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-razr-70-ultra/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Motorola Razr 70/Razr 2026 review",
     "review_url": "https://www.gsmarena.com/motorola_razr_70-review-2971.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-razr-70/-347x151/gsmarena_001.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Motorola Razr 60 Ultra review",
     "review_url": "https://www.gsmarena.com/motorola_razr_60_ultra-review-2824.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-razr-60-ultra/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "RedMagic 10 Air review",
-    "review_url": "https://www.gsmarena.com/redmagic_10_air-review-2823.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/redmagic-10-air/-347x151/gsmarena_011.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Oppo Find X8 Ultra review",
-    "review_url": "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oppo-find-x8-ultra/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
