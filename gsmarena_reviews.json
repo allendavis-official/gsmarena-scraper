@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Oppo Reno16 review",
+    "review_url": "https://www.gsmarena.com/oppo_reno16-review-2976.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-reno16/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Tecno Pova 8 review",
+    "review_url": "https://www.gsmarena.com/tecno_pova_8-review-2975.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/tecno-pova-8/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Motorola Razr Fold review",
+    "review_url": "https://www.gsmarena.com/motorola_razr_fold-review-2974.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-razr-fold/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Oppo Reno16 Pro review",
     "review_url": "https://www.gsmarena.com/oppo_reno16_pro-review-2973.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-reno16-pro/-347x151/gsmarena_000.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Nothing CMF Phone 2 Pro review",
     "review_url": "https://www.gsmarena.com/nothing_cmf_phone_2_pro-review-2827.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-cmf-phone-2-pro/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Moto G Stylus 5G (2025) review",
-    "review_url": "https://www.gsmarena.com/motoro_moto_g_stylus_5g_2025-review-2826.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-moto-g-stylus-2025/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Google Pixel 9a review",
-    "review_url": "https://www.gsmarena.com/google_pixel_9a-review-2825.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/google-pixel-9a/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Motorola Razr 60 Ultra review",
-    "review_url": "https://www.gsmarena.com/motorola_razr_60_ultra-review-2824.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-razr-60-ultra/-347x151/gsmarena_002.jpg",
     "image_alt": ""
   }
 ]
