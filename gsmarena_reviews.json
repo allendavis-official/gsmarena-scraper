@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Samsung Galaxy Z Fold8 Ultra review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra-review-2985.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-z-fold8-ultra/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Samsung Galaxy Z Fold8 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8-review-2984.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-z-fold8/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Huawei Pura 90s Pro Max review",
     "review_url": "https://www.gsmarena.com/huawei_pura_90s_pro_max-review-2983.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/huawei-pura-90s-pro-max/-347x151/gsmarena_001.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Honor 400 Pro review",
     "review_url": "https://www.gsmarena.com/honor_400_pro-review-2837.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-400-pro/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "OnePlus 13s hands-on review",
-    "review_url": "https://www.gsmarena.com/oneplus_13s_handson-review-2838.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-13s/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "nubia Z70S Ultra review",
-    "review_url": "https://www.gsmarena.com/nubia_z70s_ultra-review-2836.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nubia-z70s-ultra/-347x151/gsmarena_003.jpg",
     "image_alt": ""
   }
 ]
