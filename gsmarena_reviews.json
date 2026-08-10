@@ -1,5 +1,11 @@
 [
   {
+    "phone_name": "Samsung Galaxy Watch Ultra2 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch_ultra2-review-2986.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-watch-ultra2/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Samsung Galaxy Z Fold8 Ultra review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra-review-2985.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-z-fold8-ultra/-347x151/gsmarena_000.jpg",
@@ -891,12 +897,6 @@
     "phone_name": "Xiaomi Pad 7 Pro review",
     "review_url": "https://www.gsmarena.com/xiaomi_pad_7_pro-review-2832.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-pad-7-pro/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Honor 400 Pro review",
-    "review_url": "https://www.gsmarena.com/honor_400_pro-review-2837.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/honor-400-pro/-347x151/gsmarena_002.jpg",
     "image_alt": ""
   }
 ]
