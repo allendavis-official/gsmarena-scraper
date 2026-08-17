@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Samsung Galaxy Watch9 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch9-review-2988.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-watch9/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Xiaomi Redmi Note 17 5G hands-on review",
+    "review_url": "https://www.gsmarena.com/redmi_note_17_5g_hands_on-review-2987.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-redmi-note-17-5g/hands-on/-347x151/thumb.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Samsung Galaxy Watch Ultra2 review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_watch_ultra2-review-2986.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-watch-ultra2/-347x151/gsmarena_000.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Infinix GT 30 Pro review",
     "review_url": "https://www.gsmarena.com/infinix_gt_30_pro-review-2841.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/infinix-gt-30-pro/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Motorola Razr 2025/Razr 60 review",
-    "review_url": "https://www.gsmarena.com/motorola_razr_2025_razr_60-review-2842.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-razr-2025/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi Pad 7 Pro review",
-    "review_url": "https://www.gsmarena.com/xiaomi_pad_7_pro-review-2832.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/xiaomi-pad-7-pro/-347x151/gsmarena_002.jpg",
     "image_alt": ""
   }
 ]
