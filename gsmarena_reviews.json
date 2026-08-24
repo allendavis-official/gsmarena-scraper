@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Samsung Galaxy Z Flip8 review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_z_flip8-review-2989.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-z-flip8/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Google Pixel 11 Pro hands-on review",
+    "review_url": "https://www.gsmarena.com/google_pixel_11_pro_hands_on-review-2990.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11-pro/hands-on/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Samsung Galaxy Watch9 review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_watch9-review-2988.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-watch9/-347x151/gsmarena_000.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Tecno Pova Curve hands-on review",
     "review_url": "https://www.gsmarena.com/tecno_pova_curve_hands_on-review-2845.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/tecno-pova-curve-hands-on/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Xiaomi Redmi Pad 2 review",
-    "review_url": "https://www.gsmarena.com/redmi_pad_2-review-2839.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/redmi-pad-2/-347x151/gsmarena_002.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Infinix GT 30 Pro review",
-    "review_url": "https://www.gsmarena.com/infinix_gt_30_pro-review-2841.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/infinix-gt-30-pro/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
