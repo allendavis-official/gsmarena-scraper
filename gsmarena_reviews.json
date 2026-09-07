@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Google Pixel 11 Pro review",
+    "review_url": "https://www.gsmarena.com/google_pixel_11_pro-review-2996.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11-pro/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Google Pixel 11 Pro XL review",
+    "review_url": "https://www.gsmarena.com/google_pixel_11_pro_xl-review-2994.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/pixel-11-pro-xl/-347x151/gsmarena_003.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Poco F9 Ultra review",
+    "review_url": "https://www.gsmarena.com/poco_f9_ultra-review-2995.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/poco-f9-ultra/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Motorola Edge 70 Max review",
     "review_url": "https://www.gsmarena.com/motorola_edge_70_max-review-2991.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-edge-70-max/-347x151/gsmarena_000.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Tecno Camon 40 Premier review",
     "review_url": "https://www.gsmarena.com/tecno_camon_40_premier-review-2847.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/tecno-camon-40-premier/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Infinix Xpad GT review",
-    "review_url": "https://www.gsmarena.com/infinix_xpad_gt-review-2840.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/infinix-xpad-gt/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Tecno Camon 40 Pro review",
-    "review_url": "https://www.gsmarena.com/tecno_camon_40_pro-review-2830.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/tecno-camon-40-pro/-347x151/gsmarena_003.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Poco F7 review",
-    "review_url": "https://www.gsmarena.com/poco_f7-review-2846.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/poco-f7/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
