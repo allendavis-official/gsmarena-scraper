@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Infinix XPAD 30 Pro review",
+    "review_url": "https://www.gsmarena.com/infinix_xpad_30_pro-review-2998.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-xpad-30-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Samsung Galaxy S26 FE review",
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s26_fe-review-2999.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-s26-fe/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Google Pixel 11 Pro review",
     "review_url": "https://www.gsmarena.com/google_pixel_11_pro-review-2996.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11-pro/-347x151/gsmarena_000.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Samsung Galaxy Z Fold7 and Z Flip7 hands-on review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_and_z_flip7_hands_on-review-2851.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-unpacked-july/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "OnePlus Nord 5 review",
-    "review_url": "https://www.gsmarena.com/oneplus_nord_5-review-2849.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-nord-5/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Tecno Camon 40 Premier review",
-    "review_url": "https://www.gsmarena.com/tecno_camon_40_premier-review-2847.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/tecno-camon-40-premier/-347x151/gsmarena_000.jpg",
     "image_alt": ""
   }
 ]
