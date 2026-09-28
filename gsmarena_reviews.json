@@ -1,5 +1,23 @@
 [
   {
+    "phone_name": "Apple iPhone 18 Pro review",
+    "review_url": "https://www.gsmarena.com/apple_iphone_18_pro-review-3003.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/apple-iphone-18-pro/-347x151/gsmarena_004.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "Apple iPhone 18 Pro Max review",
+    "review_url": "https://www.gsmarena.com/apple_iphone_18_pro_max-review-3002.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/apple-iphone-18-pro-max/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "vivo X500, X500 Pro and X500 Pro Max hands-on review",
+    "review_url": "https://www.gsmarena.com/vivo_x500_x500_pro_x500_pro_max_handson-review-3001.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-x500-series-handson/-347x151/gsmarena_000.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Google Pixel 11 review",
     "review_url": "https://www.gsmarena.com/google_pixel_11-review-3000.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11/-347x151/gsmarena_001.jpg",
@@ -879,24 +897,6 @@
     "phone_name": "Samsung Galaxy Z Fold7 review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_z_fold7-review-2856.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-z-fold7/-347x151/gsmarena_000.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "OnePlus Nord CE5 review",
-    "review_url": "https://www.gsmarena.com/oneplus_nord_ce5-review-2855.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-nord-ce5/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Nothing Phone (3) review",
-    "review_url": "https://www.gsmarena.com/nothing_phone_3-review-2853.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo X200 FE review",
-    "review_url": "https://www.gsmarena.com/vivo_x200_fe-review-2850.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x200-fe/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
