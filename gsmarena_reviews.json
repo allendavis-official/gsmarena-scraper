@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "Oppo Find X10 review",
+    "review_url": "https://www.gsmarena.com/oppo_find_x10-review-3007.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "vivo X500 Pro Max review",
+    "review_url": "https://www.gsmarena.com/vivo_x500_pro_max-review-3009.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-x500-pro-max/-347x151/gsmarena_004.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Oppo Find X10 Pro Max review",
     "review_url": "https://www.gsmarena.com/oppo_find_x10_pro_max-review-3008.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10-pro-max/-347x151/gsmarena_001.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Samsung Galaxy Z Flip7 FE review",
     "review_url": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe-review-2861.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-z-flip7-fe/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "vivo X Fold5 review",
-    "review_url": "https://www.gsmarena.com/vivo_x_fold5-review-2859.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/vivo-x-fold5/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy Watch8 and Galaxy Watch8 Classic review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch8_and_galaxy_watch8_classic-review-2860.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-watch8-series/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
