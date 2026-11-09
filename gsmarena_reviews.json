@@ -1,5 +1,17 @@
 [
   {
+    "phone_name": "vivo V80 review",
+    "review_url": "https://www.gsmarena.com/vivo_v80-review-3011.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-v80/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
+    "phone_name": "RedMagic 12 Pro review",
+    "review_url": "https://www.gsmarena.com/redmagic_12_pro-review-3010.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/redmagic-12-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "Oppo Find X10 review",
     "review_url": "https://www.gsmarena.com/oppo_find_x10-review-3007.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10/-347x151/gsmarena_001.jpg",
@@ -885,18 +897,6 @@
     "phone_name": "Tecno Spark 40 Pro+ review",
     "review_url": "https://www.gsmarena.com/tecno_spark_40_pro_plus-review-2862.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/tecno-spark-40-pro-plus/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "OnePlus Pad 3 review",
-    "review_url": "https://www.gsmarena.com/oneplus_pad_3-review-2854.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/oneplus-pad-3/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Samsung Galaxy Z Flip7 FE review",
-    "review_url": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe-review-2861.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/samsung-galaxy-z-flip7-fe/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
