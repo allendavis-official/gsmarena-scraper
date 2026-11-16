@@ -1,5 +1,11 @@
 [
   {
+    "phone_name": "vivo X500 Pro review",
+    "review_url": "https://www.gsmarena.com/vivo_x500_pro-review-3012.php",
+    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-x500-pro/-347x151/gsmarena_001.jpg",
+    "image_alt": ""
+  },
+  {
     "phone_name": "vivo V80 review",
     "review_url": "https://www.gsmarena.com/vivo_v80-review-3011.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-v80/-347x151/gsmarena_001.jpg",
@@ -891,12 +897,6 @@
     "phone_name": "Huawei Pura 80 Ultra review",
     "review_url": "https://www.gsmarena.com/huawei_pura_80_ultra-review-2863.php",
     "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/huawei-pura-80-ultra/-347x151/gsmarena_001.jpg",
-    "image_alt": ""
-  },
-  {
-    "phone_name": "Tecno Spark 40 Pro+ review",
-    "review_url": "https://www.gsmarena.com/tecno_spark_40_pro_plus-review-2862.php",
-    "image_url": "https://fdn.gsmarena.com/imgroot/reviews/25/tecno-spark-40-pro-plus/-347x151/gsmarena_001.jpg",
     "image_alt": ""
   }
 ]
